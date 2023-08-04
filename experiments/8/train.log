@@ -1,0 +1,1558 @@
+2023-08-04 11:56:33,409:INFO: Loading the datasets...
+2023-08-04 11:56:33,409:INFO: - done.
+2023-08-04 11:56:33,412:INFO: Starting training for 256 epoch(s)
+2023-08-04 11:56:33,412:INFO: Epoch 1/256
+2023-08-04 11:56:33,571:INFO: - Train metrics: f1_score_macro: 0.079 ; loss: 193.450
+2023-08-04 11:56:33,610:INFO: - Eval metrics : f1_score_macro: 0.006 ; loss: 41355.889
+2023-08-04 11:56:33,661:INFO: - Found new best accuracy
+2023-08-04 11:56:33,663:INFO: Epoch 2/256
+2023-08-04 11:56:33,820:INFO: - Train metrics: f1_score_macro: 0.108 ; loss: 34.512
+2023-08-04 11:56:33,858:INFO: - Eval metrics : f1_score_macro: 0.164 ; loss: 8.623
+2023-08-04 11:56:33,869:INFO: - Found new best accuracy
+2023-08-04 11:56:33,869:INFO: Epoch 3/256
+2023-08-04 11:56:34,048:INFO: - Train metrics: f1_score_macro: 0.156 ; loss: 14.930
+2023-08-04 11:56:34,098:INFO: - Eval metrics : f1_score_macro: 0.201 ; loss: 7488527039855.573
+2023-08-04 11:56:34,109:INFO: - Found new best accuracy
+2023-08-04 11:56:34,110:INFO: Epoch 4/256
+2023-08-04 11:56:34,286:INFO: - Train metrics: f1_score_macro: 0.167 ; loss: 6.406
+2023-08-04 11:56:34,327:INFO: - Eval metrics : f1_score_macro: 0.245 ; loss: 33236913286362928.000
+2023-08-04 11:56:34,338:INFO: - Found new best accuracy
+2023-08-04 11:56:34,339:INFO: Epoch 5/256
+2023-08-04 11:56:34,506:INFO: - Train metrics: f1_score_macro: 0.158 ; loss: 8.224
+2023-08-04 11:56:34,544:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 144225657872162488320.000
+2023-08-04 11:56:34,548:INFO: Epoch 6/256
+2023-08-04 11:56:34,719:INFO: - Train metrics: f1_score_macro: 0.102 ; loss: 60.291
+2023-08-04 11:56:34,764:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 7385486169731928.000
+2023-08-04 11:56:34,768:INFO: Epoch 7/256
+2023-08-04 11:56:34,937:INFO: - Train metrics: f1_score_macro: 0.112 ; loss: 45.515
+2023-08-04 11:56:34,973:INFO: - Eval metrics : f1_score_macro: 0.257 ; loss: 5157393399111753728.000
+2023-08-04 11:56:34,984:INFO: - Found new best accuracy
+2023-08-04 11:56:34,984:INFO: Epoch 8/256
+2023-08-04 11:56:35,167:INFO: - Train metrics: f1_score_macro: 0.150 ; loss: 44.566
+2023-08-04 11:56:35,209:INFO: - Eval metrics : f1_score_macro: 0.182 ; loss: 13595685934621396992.000
+2023-08-04 11:56:35,214:INFO: Epoch 9/256
+2023-08-04 11:56:35,387:INFO: - Train metrics: f1_score_macro: 0.135 ; loss: 8.984
+2023-08-04 11:56:35,466:INFO: - Eval metrics : f1_score_macro: 0.247 ; loss: 115334155836.240
+2023-08-04 11:56:35,470:INFO: Epoch 10/256
+2023-08-04 11:56:35,650:INFO: - Train metrics: f1_score_macro: 0.196 ; loss: 2.821
+2023-08-04 11:56:35,701:INFO: - Eval metrics : f1_score_macro: 0.245 ; loss: 3120056041645813006336.000
+2023-08-04 11:56:35,704:INFO: Epoch 11/256
+2023-08-04 11:56:35,876:INFO: - Train metrics: f1_score_macro: 0.233 ; loss: 2.384
+2023-08-04 11:56:35,921:INFO: - Eval metrics : f1_score_macro: 0.247 ; loss: 34588361710946119319552.000
+2023-08-04 11:56:35,925:INFO: Epoch 12/256
+2023-08-04 11:56:36,113:INFO: - Train metrics: f1_score_macro: 0.100 ; loss: 115.020
+2023-08-04 11:56:36,154:INFO: - Eval metrics : f1_score_macro: 0.020 ; loss: 1165465032965004734758912.000
+2023-08-04 11:56:36,158:INFO: Epoch 13/256
+2023-08-04 11:56:36,337:INFO: - Train metrics: f1_score_macro: 0.055 ; loss: 195.057
+2023-08-04 11:56:36,392:INFO: - Eval metrics : f1_score_macro: 0.120 ; loss: 3033798308476580003840.000
+2023-08-04 11:56:36,404:INFO: Epoch 14/256
+2023-08-04 11:56:36,693:INFO: - Train metrics: f1_score_macro: 0.091 ; loss: 5096.605
+2023-08-04 11:56:36,738:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 33310626407427.867
+2023-08-04 11:56:36,743:INFO: Epoch 15/256
+2023-08-04 11:56:36,968:INFO: - Train metrics: f1_score_macro: 0.087 ; loss: 521.728
+2023-08-04 11:56:37,011:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 1894575874494868224.000
+2023-08-04 11:56:37,017:INFO: Epoch 16/256
+2023-08-04 11:56:37,216:INFO: - Train metrics: f1_score_macro: 0.099 ; loss: 769.213
+2023-08-04 11:56:37,262:INFO: - Eval metrics : f1_score_macro: 0.160 ; loss: 111435125299771466579968.000
+2023-08-04 11:56:37,267:INFO: Epoch 17/256
+2023-08-04 11:56:37,459:INFO: - Train metrics: f1_score_macro: 0.110 ; loss: 86.647
+2023-08-04 11:56:37,507:INFO: - Eval metrics : f1_score_macro: 0.032 ; loss: 6823424147124774504228716544.000
+2023-08-04 11:56:37,511:INFO: Epoch 18/256
+2023-08-04 11:56:37,709:INFO: - Train metrics: f1_score_macro: 0.148 ; loss: 86.142
+2023-08-04 11:56:37,757:INFO: - Eval metrics : f1_score_macro: 0.226 ; loss: 40505402728671566048947075022848.000
+2023-08-04 11:56:37,761:INFO: Epoch 19/256
+2023-08-04 11:56:37,957:INFO: - Train metrics: f1_score_macro: 0.168 ; loss: 77.530
+2023-08-04 11:56:38,004:INFO: - Eval metrics : f1_score_macro: 0.219 ; loss: 14999883732965238828214700749094912.000
+2023-08-04 11:56:38,007:INFO: Epoch 20/256
+2023-08-04 11:56:38,200:INFO: - Train metrics: f1_score_macro: 0.167 ; loss: 92.557
+2023-08-04 11:56:38,238:INFO: - Eval metrics : f1_score_macro: 0.018 ; loss: 17837212832248360483462290648072192.000
+2023-08-04 11:56:38,243:INFO: Epoch 21/256
+2023-08-04 11:56:38,416:INFO: - Train metrics: f1_score_macro: 0.171 ; loss: 67.697
+2023-08-04 11:56:38,457:INFO: - Eval metrics : f1_score_macro: 0.214 ; loss: 35077108884357158532313273751044096.000
+2023-08-04 11:56:38,462:INFO: Epoch 22/256
+2023-08-04 11:56:38,655:INFO: - Train metrics: f1_score_macro: 0.028 ; loss: 276.098
+2023-08-04 11:56:38,705:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 61023588802894408015581079484235776.000
+2023-08-04 11:56:38,709:INFO: Epoch 23/256
+2023-08-04 11:56:38,905:INFO: - Train metrics: f1_score_macro: 0.072 ; loss: 73.704
+2023-08-04 11:56:38,956:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 22581716016675450679875076096.000
+2023-08-04 11:56:38,960:INFO: Epoch 24/256
+2023-08-04 11:56:39,157:INFO: - Train metrics: f1_score_macro: 0.113 ; loss: 1011.064
+2023-08-04 11:56:39,203:INFO: - Eval metrics : f1_score_macro: 0.230 ; loss: 426796380569340620730041106432.000
+2023-08-04 11:56:39,207:INFO: Epoch 25/256
+2023-08-04 11:56:39,396:INFO: - Train metrics: f1_score_macro: 0.155 ; loss: 288.362
+2023-08-04 11:56:39,437:INFO: - Eval metrics : f1_score_macro: 0.128 ; loss: 53154253287650977384513929216.000
+2023-08-04 11:56:39,440:INFO: Epoch 26/256
+2023-08-04 11:56:39,669:INFO: - Train metrics: f1_score_macro: 0.147 ; loss: 195.045
+2023-08-04 11:56:39,707:INFO: - Eval metrics : f1_score_macro: 0.231 ; loss: 2809673239713836562210982199296.000
+2023-08-04 11:56:39,711:INFO: Epoch 27/256
+2023-08-04 11:56:39,894:INFO: - Train metrics: f1_score_macro: 0.251 ; loss: 56.733
+2023-08-04 11:56:39,941:INFO: - Eval metrics : f1_score_macro: 0.211 ; loss: 131856613376842287274846609997824.000
+2023-08-04 11:56:39,944:INFO: Epoch 28/256
+2023-08-04 11:56:40,143:INFO: - Train metrics: f1_score_macro: 0.245 ; loss: 64.504
+2023-08-04 11:56:40,191:INFO: - Eval metrics : f1_score_macro: 0.017 ; loss: 2429722096822439794546749841866752.000
+2023-08-04 11:56:40,196:INFO: Epoch 29/256
+2023-08-04 11:56:40,384:INFO: - Train metrics: f1_score_macro: 0.272 ; loss: 53.538
+2023-08-04 11:56:40,435:INFO: - Eval metrics : f1_score_macro: 0.220 ; loss: 9130956560568604084215487030886400.000
+2023-08-04 11:56:40,439:INFO: Epoch 30/256
+2023-08-04 11:56:40,628:INFO: - Train metrics: f1_score_macro: 0.171 ; loss: 123.917
+2023-08-04 11:56:40,677:INFO: - Eval metrics : f1_score_macro: 0.018 ; loss: 40126866385566928606911742114529280.000
+2023-08-04 11:56:40,682:INFO: Epoch 31/256
+2023-08-04 11:56:40,878:INFO: - Train metrics: f1_score_macro: 0.080 ; loss: 453.046
+2023-08-04 11:56:40,927:INFO: - Eval metrics : f1_score_macro: 0.018 ; loss: 20710026137751129207027251999145984.000
+2023-08-04 11:56:40,933:INFO: Epoch 32/256
+2023-08-04 11:56:41,137:INFO: - Train metrics: f1_score_macro: 0.131 ; loss: 52.463
+2023-08-04 11:56:41,182:INFO: - Eval metrics : f1_score_macro: 0.213 ; loss: 36590871465249116526788116905721856.000
+2023-08-04 11:56:41,186:INFO: Epoch 33/256
+2023-08-04 11:56:41,379:INFO: - Train metrics: f1_score_macro: 0.209 ; loss: 1360.106
+2023-08-04 11:56:41,428:INFO: - Eval metrics : f1_score_macro: 0.077 ; loss: 14426342610736112216309760.000
+2023-08-04 11:56:41,434:INFO: Epoch 34/256
+2023-08-04 11:56:41,623:INFO: - Train metrics: f1_score_macro: 0.129 ; loss: 229.679
+2023-08-04 11:56:41,668:INFO: - Eval metrics : f1_score_macro: 0.215 ; loss: 8241334931060288292617453568.000
+2023-08-04 11:56:41,672:INFO: Epoch 35/256
+2023-08-04 11:56:41,860:INFO: - Train metrics: f1_score_macro: 0.154 ; loss: 170.459
+2023-08-04 11:56:41,902:INFO: - Eval metrics : f1_score_macro: 0.206 ; loss: 13152288585179510985745829462016.000
+2023-08-04 11:56:41,906:INFO: Epoch 36/256
+2023-08-04 11:56:42,086:INFO: - Train metrics: f1_score_macro: 0.150 ; loss: 1098.071
+2023-08-04 11:56:42,125:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 373343347390988465534535301332992.000
+2023-08-04 11:56:42,129:INFO: Epoch 37/256
+2023-08-04 11:56:42,302:INFO: - Train metrics: f1_score_macro: 0.108 ; loss: 2860.121
+2023-08-04 11:56:42,346:INFO: - Eval metrics : f1_score_macro: 0.054 ; loss: 312060129878833061710400585728.000
+2023-08-04 11:56:42,350:INFO: Epoch 38/256
+2023-08-04 11:56:42,536:INFO: - Train metrics: f1_score_macro: 0.111 ; loss: 432.939
+2023-08-04 11:56:42,584:INFO: - Eval metrics : f1_score_macro: 0.010 ; loss: 1089837963804470200012409667584.000
+2023-08-04 11:56:42,589:INFO: Epoch 39/256
+2023-08-04 11:56:42,784:INFO: - Train metrics: f1_score_macro: 0.109 ; loss: 2633.378
+2023-08-04 11:56:42,833:INFO: - Eval metrics : f1_score_macro: 0.033 ; loss: 6029811585529200707500578439168.000
+2023-08-04 11:56:42,838:INFO: Epoch 40/256
+2023-08-04 11:56:43,028:INFO: - Train metrics: f1_score_macro: 0.085 ; loss: 834.076
+2023-08-04 11:56:43,078:INFO: - Eval metrics : f1_score_macro: 0.097 ; loss: 1604315763095042959343616.000
+2023-08-04 11:56:43,084:INFO: Epoch 41/256
+2023-08-04 11:56:43,273:INFO: - Train metrics: f1_score_macro: 0.092 ; loss: 2109.685
+2023-08-04 11:56:43,323:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 842446441106999290518539599872.000
+2023-08-04 11:56:43,328:INFO: Epoch 42/256
+2023-08-04 11:56:43,520:INFO: - Train metrics: f1_score_macro: 0.102 ; loss: 813.867
+2023-08-04 11:56:43,562:INFO: - Eval metrics : f1_score_macro: 0.050 ; loss: 633691834162233562303993741312.000
+2023-08-04 11:56:43,591:INFO: Epoch 43/256
+2023-08-04 11:56:43,792:INFO: - Train metrics: f1_score_macro: 0.098 ; loss: 705.745
+2023-08-04 11:56:43,839:INFO: - Eval metrics : f1_score_macro: 0.290 ; loss: 49118748656993032257324481249280.000
+2023-08-04 11:56:43,852:INFO: - Found new best accuracy
+2023-08-04 11:56:43,852:INFO: Epoch 44/256
+2023-08-04 11:56:44,041:INFO: - Train metrics: f1_score_macro: 0.115 ; loss: 3930.940
+2023-08-04 11:56:44,099:INFO: - Eval metrics : f1_score_macro: 0.001 ; loss: 38155286012636533862286358738894848.000
+2023-08-04 11:56:44,104:INFO: Epoch 45/256
+2023-08-04 11:56:44,297:INFO: - Train metrics: f1_score_macro: 0.094 ; loss: 3727.916
+2023-08-04 11:56:44,345:INFO: - Eval metrics : f1_score_macro: 0.005 ; loss: 9773216187098067063799808.000
+2023-08-04 11:56:44,350:INFO: Epoch 46/256
+2023-08-04 11:56:44,541:INFO: - Train metrics: f1_score_macro: 0.093 ; loss: 1906.559
+2023-08-04 11:56:44,592:INFO: - Eval metrics : f1_score_macro: 0.118 ; loss: 615529848466168256257859780608.000
+2023-08-04 11:56:44,596:INFO: Epoch 47/256
+2023-08-04 11:56:44,793:INFO: - Train metrics: f1_score_macro: 0.112 ; loss: 181.673
+2023-08-04 11:56:44,840:INFO: - Eval metrics : f1_score_macro: 0.054 ; loss: 172429430275759955518710349824.000
+2023-08-04 11:56:44,843:INFO: Epoch 48/256
+2023-08-04 11:56:45,036:INFO: - Train metrics: f1_score_macro: 0.101 ; loss: 126.022
+2023-08-04 11:56:45,087:INFO: - Eval metrics : f1_score_macro: 0.179 ; loss: 10363169504.236
+2023-08-04 11:56:45,092:INFO: Epoch 49/256
+2023-08-04 11:56:45,279:INFO: - Train metrics: f1_score_macro: 0.096 ; loss: 565.655
+2023-08-04 11:56:45,325:INFO: - Eval metrics : f1_score_macro: 0.133 ; loss: 1748714405084110325412102406144.000
+2023-08-04 11:56:45,329:INFO: Epoch 50/256
+2023-08-04 11:56:45,512:INFO: - Train metrics: f1_score_macro: 0.099 ; loss: 697.241
+2023-08-04 11:56:45,560:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 386332112391294461340024832.000
+2023-08-04 11:56:45,564:INFO: Epoch 51/256
+2023-08-04 11:56:45,762:INFO: - Train metrics: f1_score_macro: 0.104 ; loss: 311.636
+2023-08-04 11:56:45,811:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 1667210678169334112799233671168.000
+2023-08-04 11:56:45,816:INFO: Epoch 52/256
+2023-08-04 11:56:45,992:INFO: - Train metrics: f1_score_macro: 0.072 ; loss: 873.215
+2023-08-04 11:56:46,036:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 181086704986032231659264597295104.000
+2023-08-04 11:56:46,041:INFO: Epoch 53/256
+2023-08-04 11:56:46,204:INFO: - Train metrics: f1_score_macro: 0.093 ; loss: 106.947
+2023-08-04 11:56:46,244:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 3557857666020781433722772022886400.000
+2023-08-04 11:56:46,249:INFO: Epoch 54/256
+2023-08-04 11:56:46,425:INFO: - Train metrics: f1_score_macro: 0.110 ; loss: 73.604
+2023-08-04 11:56:46,472:INFO: - Eval metrics : f1_score_macro: 0.245 ; loss: 63455991564184895954817646592.000
+2023-08-04 11:56:46,477:INFO: Epoch 55/256
+2023-08-04 11:56:46,653:INFO: - Train metrics: f1_score_macro: 0.121 ; loss: 106.871
+2023-08-04 11:56:46,696:INFO: - Eval metrics : f1_score_macro: 0.203 ; loss: 124714761438384177483443364429824.000
+2023-08-04 11:56:46,700:INFO: Epoch 56/256
+2023-08-04 11:56:46,884:INFO: - Train metrics: f1_score_macro: 0.186 ; loss: 51.171
+2023-08-04 11:56:46,932:INFO: - Eval metrics : f1_score_macro: 0.316 ; loss: 126651361814569730058410262528.000
+2023-08-04 11:56:46,944:INFO: - Found new best accuracy
+2023-08-04 11:56:46,944:INFO: Epoch 57/256
+2023-08-04 11:56:47,126:INFO: - Train metrics: f1_score_macro: 0.186 ; loss: 127.455
+2023-08-04 11:56:47,171:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 50096141549466577681389287636992.000
+2023-08-04 11:56:47,176:INFO: Epoch 58/256
+2023-08-04 11:56:47,341:INFO: - Train metrics: f1_score_macro: 0.065 ; loss: 631.840
+2023-08-04 11:56:47,386:INFO: - Eval metrics : f1_score_macro: 0.067 ; loss: 234411372132782752991720547287040.000
+2023-08-04 11:56:47,391:INFO: Epoch 59/256
+2023-08-04 11:56:47,573:INFO: - Train metrics: f1_score_macro: 0.104 ; loss: 2467.638
+2023-08-04 11:56:47,617:INFO: - Eval metrics : f1_score_macro: 0.029 ; loss: 532170896401948181086076928.000
+2023-08-04 11:56:47,620:INFO: Epoch 60/256
+2023-08-04 11:56:47,787:INFO: - Train metrics: f1_score_macro: 0.124 ; loss: 135.855
+2023-08-04 11:56:47,832:INFO: - Eval metrics : f1_score_macro: 0.155 ; loss: 11535843331686264481903542272.000
+2023-08-04 11:56:47,837:INFO: Epoch 61/256
+2023-08-04 11:56:48,005:INFO: - Train metrics: f1_score_macro: 0.142 ; loss: 701.422
+2023-08-04 11:56:48,047:INFO: - Eval metrics : f1_score_macro: 0.156 ; loss: 40907218152361030584486592512.000
+2023-08-04 11:56:48,052:INFO: Epoch 62/256
+2023-08-04 11:56:48,230:INFO: - Train metrics: f1_score_macro: 0.104 ; loss: 154.167
+2023-08-04 11:56:48,276:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 32958757110850012636512256.000
+2023-08-04 11:56:48,280:INFO: Epoch 63/256
+2023-08-04 11:56:48,434:INFO: - Train metrics: f1_score_macro: 0.084 ; loss: 858.566
+2023-08-04 11:56:48,471:INFO: - Eval metrics : f1_score_macro: 0.029 ; loss: 1687221577757815929189695488.000
+2023-08-04 11:56:48,474:INFO: Epoch 64/256
+2023-08-04 11:56:48,653:INFO: - Train metrics: f1_score_macro: 0.102 ; loss: 415.751
+2023-08-04 11:56:48,693:INFO: - Eval metrics : f1_score_macro: 0.117 ; loss: 2243970967461969549382909952.000
+2023-08-04 11:56:48,696:INFO: Epoch 65/256
+2023-08-04 11:56:48,863:INFO: - Train metrics: f1_score_macro: 0.100 ; loss: 4459.600
+2023-08-04 11:56:48,907:INFO: - Eval metrics : f1_score_macro: 0.081 ; loss: 8452312121152853650204388229120.000
+2023-08-04 11:56:48,911:INFO: Epoch 66/256
+2023-08-04 11:56:49,084:INFO: - Train metrics: f1_score_macro: 0.105 ; loss: 59.954
+2023-08-04 11:56:49,127:INFO: - Eval metrics : f1_score_macro: 0.020 ; loss: 29242316892044570260864893976576.000
+2023-08-04 11:56:49,131:INFO: Epoch 67/256
+2023-08-04 11:56:49,305:INFO: - Train metrics: f1_score_macro: 0.092 ; loss: 279.783
+2023-08-04 11:56:49,351:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 23074072289615079892217629769728.000
+2023-08-04 11:56:49,355:INFO: Epoch 68/256
+2023-08-04 11:56:49,530:INFO: - Train metrics: f1_score_macro: 0.115 ; loss: 653.155
+2023-08-04 11:56:49,570:INFO: - Eval metrics : f1_score_macro: 0.020 ; loss: 2902253987454531647122672975872.000
+2023-08-04 11:56:49,574:INFO: Epoch 69/256
+2023-08-04 11:56:49,737:INFO: - Train metrics: f1_score_macro: 0.105 ; loss: 137.177
+2023-08-04 11:56:49,780:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 1398644455158105148547760390144.000
+2023-08-04 11:56:49,785:INFO: Epoch 70/256
+2023-08-04 11:56:49,952:INFO: - Train metrics: f1_score_macro: 0.096 ; loss: 2618.274
+2023-08-04 11:56:49,989:INFO: - Eval metrics : f1_score_macro: 0.077 ; loss: 113.509
+2023-08-04 11:56:49,993:INFO: Epoch 71/256
+2023-08-04 11:56:50,167:INFO: - Train metrics: f1_score_macro: 0.094 ; loss: 67.423
+2023-08-04 11:56:50,211:INFO: - Eval metrics : f1_score_macro: 0.246 ; loss: 32471431298091283745079296.000
+2023-08-04 11:56:50,215:INFO: Epoch 72/256
+2023-08-04 11:56:50,371:INFO: - Train metrics: f1_score_macro: 0.114 ; loss: 424.643
+2023-08-04 11:56:50,408:INFO: - Eval metrics : f1_score_macro: 0.206 ; loss: 22683350755984300858689978368.000
+2023-08-04 11:56:50,418:INFO: Epoch 73/256
+2023-08-04 11:56:50,586:INFO: - Train metrics: f1_score_macro: 0.129 ; loss: 55.984
+2023-08-04 11:56:50,629:INFO: - Eval metrics : f1_score_macro: 0.225 ; loss: 196070679271317213935055142912.000
+2023-08-04 11:56:50,634:INFO: Epoch 74/256
+2023-08-04 11:56:50,831:INFO: - Train metrics: f1_score_macro: 0.131 ; loss: 1033.137
+2023-08-04 11:56:50,876:INFO: - Eval metrics : f1_score_macro: 0.042 ; loss: 9838623793948617867264.000
+2023-08-04 11:56:50,880:INFO: Epoch 75/256
+2023-08-04 11:56:51,045:INFO: - Train metrics: f1_score_macro: 0.072 ; loss: 193.650
+2023-08-04 11:56:51,097:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 315202086041662483595264.000
+2023-08-04 11:56:51,102:INFO: Epoch 76/256
+2023-08-04 11:56:51,267:INFO: - Train metrics: f1_score_macro: 0.065 ; loss: 2556.992
+2023-08-04 11:56:51,304:INFO: - Eval metrics : f1_score_macro: 0.118 ; loss: 730304573083787926528065536.000
+2023-08-04 11:56:51,308:INFO: Epoch 77/256
+2023-08-04 11:56:51,611:INFO: - Train metrics: f1_score_macro: 0.085 ; loss: 292.157
+2023-08-04 11:56:51,657:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 212.105
+2023-08-04 11:56:51,663:INFO: Epoch 78/256
+2023-08-04 11:56:51,920:INFO: - Train metrics: f1_score_macro: 0.073 ; loss: 569.627
+2023-08-04 11:56:51,985:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 1711045043486263700116819935232.000
+2023-08-04 11:56:51,989:INFO: Epoch 79/256
+2023-08-04 11:56:52,176:INFO: - Train metrics: f1_score_macro: 0.096 ; loss: 407.833
+2023-08-04 11:56:52,218:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 111.876
+2023-08-04 11:56:52,222:INFO: Epoch 80/256
+2023-08-04 11:56:52,475:INFO: - Train metrics: f1_score_macro: 0.080 ; loss: 2272.238
+2023-08-04 11:56:52,520:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 331096821647563031886954496.000
+2023-08-04 11:56:52,524:INFO: Epoch 81/256
+2023-08-04 11:56:52,694:INFO: - Train metrics: f1_score_macro: 0.077 ; loss: 4454.913
+2023-08-04 11:56:52,741:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 435.084
+2023-08-04 11:56:52,747:INFO: Epoch 82/256
+2023-08-04 11:56:52,943:INFO: - Train metrics: f1_score_macro: 0.119 ; loss: 164.653
+2023-08-04 11:56:52,987:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 46.349
+2023-08-04 11:56:52,991:INFO: Epoch 83/256
+2023-08-04 11:56:53,181:INFO: - Train metrics: f1_score_macro: 0.115 ; loss: 80.372
+2023-08-04 11:56:53,222:INFO: - Eval metrics : f1_score_macro: 0.248 ; loss: 37.685
+2023-08-04 11:56:53,226:INFO: Epoch 84/256
+2023-08-04 11:56:53,391:INFO: - Train metrics: f1_score_macro: 0.195 ; loss: 37.164
+2023-08-04 11:56:53,437:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 35.764
+2023-08-04 11:56:53,442:INFO: Epoch 85/256
+2023-08-04 11:56:53,606:INFO: - Train metrics: f1_score_macro: 0.199 ; loss: 86.690
+2023-08-04 11:56:53,646:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 43.324
+2023-08-04 11:56:53,651:INFO: Epoch 86/256
+2023-08-04 11:56:53,822:INFO: - Train metrics: f1_score_macro: 0.111 ; loss: 1874.535
+2023-08-04 11:56:53,859:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 42.142
+2023-08-04 11:56:53,863:INFO: Epoch 87/256
+2023-08-04 11:56:54,035:INFO: - Train metrics: f1_score_macro: 0.094 ; loss: 660.967
+2023-08-04 11:56:54,085:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 150.896
+2023-08-04 11:56:54,089:INFO: Epoch 88/256
+2023-08-04 11:56:54,260:INFO: - Train metrics: f1_score_macro: 0.084 ; loss: 7756.740
+2023-08-04 11:56:54,305:INFO: - Eval metrics : f1_score_macro: 0.230 ; loss: 242.072
+2023-08-04 11:56:54,309:INFO: Epoch 89/256
+2023-08-04 11:56:54,480:INFO: - Train metrics: f1_score_macro: 0.092 ; loss: 3164.892
+2023-08-04 11:56:54,528:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 23476786784954583101182883074670592.000
+2023-08-04 11:56:54,533:INFO: Epoch 90/256
+2023-08-04 11:56:54,712:INFO: - Train metrics: f1_score_macro: 0.079 ; loss: 410.483
+2023-08-04 11:56:54,764:INFO: - Eval metrics : f1_score_macro: 0.025 ; loss: 9967684153616057199053305282560.000
+2023-08-04 11:56:54,768:INFO: Epoch 91/256
+2023-08-04 11:56:54,952:INFO: - Train metrics: f1_score_macro: 0.073 ; loss: 621.343
+2023-08-04 11:56:55,000:INFO: - Eval metrics : f1_score_macro: 0.023 ; loss: 6089648916552841898754048.000
+2023-08-04 11:56:55,004:INFO: Epoch 92/256
+2023-08-04 11:56:55,204:INFO: - Train metrics: f1_score_macro: 0.060 ; loss: 1394.228
+2023-08-04 11:56:55,257:INFO: - Eval metrics : f1_score_macro: 0.005 ; loss: 6689270352630817792.000
+2023-08-04 11:56:55,262:INFO: Epoch 93/256
+2023-08-04 11:56:55,565:INFO: - Train metrics: f1_score_macro: 0.091 ; loss: 76.682
+2023-08-04 11:56:55,638:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 454977541254334275125248.000
+2023-08-04 11:56:55,643:INFO: Epoch 94/256
+2023-08-04 11:56:55,861:INFO: - Train metrics: f1_score_macro: 0.100 ; loss: 63.719
+2023-08-04 11:56:55,937:INFO: - Eval metrics : f1_score_macro: 0.022 ; loss: 171303923597617856.000
+2023-08-04 11:56:55,943:INFO: Epoch 95/256
+2023-08-04 11:56:56,179:INFO: - Train metrics: f1_score_macro: 0.086 ; loss: 10690.975
+2023-08-04 11:56:56,232:INFO: - Eval metrics : f1_score_macro: 0.221 ; loss: 42637940284653665010694750208000.000
+2023-08-04 11:56:56,237:INFO: Epoch 96/256
+2023-08-04 11:56:56,450:INFO: - Train metrics: f1_score_macro: 0.089 ; loss: 161.631
+2023-08-04 11:56:56,498:INFO: - Eval metrics : f1_score_macro: 0.122 ; loss: 13588594182176600202674176.000
+2023-08-04 11:56:56,503:INFO: Epoch 97/256
+2023-08-04 11:56:56,700:INFO: - Train metrics: f1_score_macro: 0.109 ; loss: 55.765
+2023-08-04 11:56:56,749:INFO: - Eval metrics : f1_score_macro: 0.138 ; loss: 35204232584354.992
+2023-08-04 11:56:56,753:INFO: Epoch 98/256
+2023-08-04 11:56:56,945:INFO: - Train metrics: f1_score_macro: 0.207 ; loss: 51.206
+2023-08-04 11:56:56,997:INFO: - Eval metrics : f1_score_macro: 0.262 ; loss: 126181982135226.781
+2023-08-04 11:56:57,001:INFO: Epoch 99/256
+2023-08-04 11:56:57,214:INFO: - Train metrics: f1_score_macro: 0.226 ; loss: 49.456
+2023-08-04 11:56:57,259:INFO: - Eval metrics : f1_score_macro: 0.245 ; loss: 1688908799150677431418880.000
+2023-08-04 11:56:57,263:INFO: Epoch 100/256
+2023-08-04 11:56:57,455:INFO: - Train metrics: f1_score_macro: 0.095 ; loss: 1397.077
+2023-08-04 11:56:57,500:INFO: - Eval metrics : f1_score_macro: 0.208 ; loss: 1545714728580947156632862720.000
+2023-08-04 11:56:57,506:INFO: Epoch 101/256
+2023-08-04 11:56:57,711:INFO: - Train metrics: f1_score_macro: 0.081 ; loss: 92.270
+2023-08-04 11:56:57,763:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 210374785309245493564640608649216.000
+2023-08-04 11:56:57,767:INFO: Epoch 102/256
+2023-08-04 11:56:57,958:INFO: - Train metrics: f1_score_macro: 0.076 ; loss: 1462.841
+2023-08-04 11:56:58,013:INFO: - Eval metrics : f1_score_macro: 0.003 ; loss: 22696953230261230143983140732928.000
+2023-08-04 11:56:58,017:INFO: Epoch 103/256
+2023-08-04 11:56:58,229:INFO: - Train metrics: f1_score_macro: 0.076 ; loss: 1166.092
+2023-08-04 11:56:58,282:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 262681171238462433525760.000
+2023-08-04 11:56:58,287:INFO: Epoch 104/256
+2023-08-04 11:56:58,488:INFO: - Train metrics: f1_score_macro: 0.065 ; loss: 387.231
+2023-08-04 11:56:58,541:INFO: - Eval metrics : f1_score_macro: 0.232 ; loss: 6922954757593098695852687360.000
+2023-08-04 11:56:58,545:INFO: Epoch 105/256
+2023-08-04 11:56:58,757:INFO: - Train metrics: f1_score_macro: 0.096 ; loss: 172.875
+2023-08-04 11:56:58,801:INFO: - Eval metrics : f1_score_macro: 0.029 ; loss: 2334337604714918837651243008.000
+2023-08-04 11:56:58,806:INFO: Epoch 106/256
+2023-08-04 11:56:58,998:INFO: - Train metrics: f1_score_macro: 0.112 ; loss: 63.831
+2023-08-04 11:56:59,048:INFO: - Eval metrics : f1_score_macro: 0.160 ; loss: 95144289644489408.000
+2023-08-04 11:56:59,052:INFO: Epoch 107/256
+2023-08-04 11:56:59,246:INFO: - Train metrics: f1_score_macro: 0.119 ; loss: 75.445
+2023-08-04 11:56:59,303:INFO: - Eval metrics : f1_score_macro: 0.244 ; loss: 42.380
+2023-08-04 11:56:59,308:INFO: Epoch 108/256
+2023-08-04 11:56:59,511:INFO: - Train metrics: f1_score_macro: 0.103 ; loss: 2598.825
+2023-08-04 11:56:59,559:INFO: - Eval metrics : f1_score_macro: 0.133 ; loss: 2713464194883.521
+2023-08-04 11:56:59,566:INFO: Epoch 109/256
+2023-08-04 11:56:59,751:INFO: - Train metrics: f1_score_macro: 0.036 ; loss: 109.292
+2023-08-04 11:56:59,799:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 4159280456490375414128371963002880.000
+2023-08-04 11:56:59,804:INFO: Epoch 110/256
+2023-08-04 11:56:59,994:INFO: - Train metrics: f1_score_macro: 0.077 ; loss: 158.396
+2023-08-04 11:57:00,051:INFO: - Eval metrics : f1_score_macro: 0.338 ; loss: 6927882054214594219474944.000
+2023-08-04 11:57:00,065:INFO: - Found new best accuracy
+2023-08-04 11:57:00,066:INFO: Epoch 111/256
+2023-08-04 11:57:00,282:INFO: - Train metrics: f1_score_macro: 0.057 ; loss: 2276.527
+2023-08-04 11:57:00,341:INFO: - Eval metrics : f1_score_macro: 0.042 ; loss: 58330478205469199609888768.000
+2023-08-04 11:57:00,346:INFO: Epoch 112/256
+2023-08-04 11:57:00,570:INFO: - Train metrics: f1_score_macro: 0.129 ; loss: 159.139
+2023-08-04 11:57:00,671:INFO: - Eval metrics : f1_score_macro: 0.089 ; loss: 48.909
+2023-08-04 11:57:00,677:INFO: Epoch 113/256
+2023-08-04 11:57:01,083:INFO: - Train metrics: f1_score_macro: 0.157 ; loss: 41.020
+2023-08-04 11:57:01,183:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 39.923
+2023-08-04 11:57:01,189:INFO: Epoch 114/256
+2023-08-04 11:57:01,425:INFO: - Train metrics: f1_score_macro: 0.248 ; loss: 39.059
+2023-08-04 11:57:01,477:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 76747621328798225765761024.000
+2023-08-04 11:57:01,482:INFO: Epoch 115/256
+2023-08-04 11:57:01,692:INFO: - Train metrics: f1_score_macro: 0.269 ; loss: 37.779
+2023-08-04 11:57:01,738:INFO: - Eval metrics : f1_score_macro: 0.249 ; loss: 142218014286769.312
+2023-08-04 11:57:01,744:INFO: Epoch 116/256
+2023-08-04 11:57:01,964:INFO: - Train metrics: f1_score_macro: 0.246 ; loss: 36.856
+2023-08-04 11:57:02,017:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 36.145
+2023-08-04 11:57:02,022:INFO: Epoch 117/256
+2023-08-04 11:57:02,259:INFO: - Train metrics: f1_score_macro: 0.248 ; loss: 35.721
+2023-08-04 11:57:02,360:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 35.187
+2023-08-04 11:57:02,365:INFO: Epoch 118/256
+2023-08-04 11:57:02,594:INFO: - Train metrics: f1_score_macro: 0.237 ; loss: 34.857
+2023-08-04 11:57:02,663:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 303811355699366657641152512.000
+2023-08-04 11:57:02,669:INFO: Epoch 119/256
+2023-08-04 11:57:02,972:INFO: - Train metrics: f1_score_macro: 0.247 ; loss: 34.017
+2023-08-04 11:57:03,030:INFO: - Eval metrics : f1_score_macro: 0.240 ; loss: 7383207554276323950690280931328.000
+2023-08-04 11:57:03,035:INFO: Epoch 120/256
+2023-08-04 11:57:03,275:INFO: - Train metrics: f1_score_macro: 0.146 ; loss: 506.616
+2023-08-04 11:57:03,337:INFO: - Eval metrics : f1_score_macro: 0.023 ; loss: 35.395
+2023-08-04 11:57:03,343:INFO: Epoch 121/256
+2023-08-04 11:57:03,557:INFO: - Train metrics: f1_score_macro: 0.235 ; loss: 32.461
+2023-08-04 11:57:03,603:INFO: - Eval metrics : f1_score_macro: 0.108 ; loss: 320778702412522275486700683657216.000
+2023-08-04 11:57:03,607:INFO: Epoch 122/256
+2023-08-04 11:57:03,807:INFO: - Train metrics: f1_score_macro: 0.255 ; loss: 31.446
+2023-08-04 11:57:03,856:INFO: - Eval metrics : f1_score_macro: 0.020 ; loss: 115058781133967.234
+2023-08-04 11:57:03,861:INFO: Epoch 123/256
+2023-08-04 11:57:04,056:INFO: - Train metrics: f1_score_macro: 0.229 ; loss: 30.982
+2023-08-04 11:57:04,119:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 84612130446001487047844429824.000
+2023-08-04 11:57:04,125:INFO: Epoch 124/256
+2023-08-04 11:57:04,330:INFO: - Train metrics: f1_score_macro: 0.267 ; loss: 30.177
+2023-08-04 11:57:04,382:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 28687741921990.719
+2023-08-04 11:57:04,387:INFO: Epoch 125/256
+2023-08-04 11:57:04,594:INFO: - Train metrics: f1_score_macro: 0.235 ; loss: 29.511
+2023-08-04 11:57:04,644:INFO: - Eval metrics : f1_score_macro: 0.229 ; loss: 107257481773197769966817902592.000
+2023-08-04 11:57:04,649:INFO: Epoch 126/256
+2023-08-04 11:57:04,858:INFO: - Train metrics: f1_score_macro: 0.163 ; loss: 1172.092
+2023-08-04 11:57:04,905:INFO: - Eval metrics : f1_score_macro: 0.162 ; loss: 4138.279
+2023-08-04 11:57:04,909:INFO: Epoch 127/256
+2023-08-04 11:57:05,111:INFO: - Train metrics: f1_score_macro: 0.105 ; loss: 49.471
+2023-08-04 11:57:05,168:INFO: - Eval metrics : f1_score_macro: 0.067 ; loss: 315581216564474304.000
+2023-08-04 11:57:05,172:INFO: Epoch 128/256
+2023-08-04 11:57:05,366:INFO: - Train metrics: f1_score_macro: 0.146 ; loss: 34.858
+2023-08-04 11:57:05,444:INFO: - Eval metrics : f1_score_macro: 0.084 ; loss: 28.231
+2023-08-04 11:57:05,449:INFO: Epoch 129/256
+2023-08-04 11:57:05,646:INFO: - Train metrics: f1_score_macro: 0.234 ; loss: 27.827
+2023-08-04 11:57:05,697:INFO: - Eval metrics : f1_score_macro: 0.251 ; loss: 2324348936591390049042432.000
+2023-08-04 11:57:05,701:INFO: Epoch 130/256
+2023-08-04 11:57:05,899:INFO: - Train metrics: f1_score_macro: 0.253 ; loss: 26.945
+2023-08-04 11:57:05,945:INFO: - Eval metrics : f1_score_macro: 0.115 ; loss: 49268068122050.289
+2023-08-04 11:57:05,950:INFO: Epoch 131/256
+2023-08-04 11:57:06,161:INFO: - Train metrics: f1_score_macro: 0.214 ; loss: 31.465
+2023-08-04 11:57:06,208:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 11499331270908.080
+2023-08-04 11:57:06,213:INFO: Epoch 132/256
+2023-08-04 11:57:06,405:INFO: - Train metrics: f1_score_macro: 0.191 ; loss: 33.298
+2023-08-04 11:57:06,457:INFO: - Eval metrics : f1_score_macro: 0.249 ; loss: 1117.476
+2023-08-04 11:57:06,461:INFO: Epoch 133/256
+2023-08-04 11:57:06,649:INFO: - Train metrics: f1_score_macro: 0.130 ; loss: 2368.753
+2023-08-04 11:57:06,702:INFO: - Eval metrics : f1_score_macro: 0.115 ; loss: 1209559395842066470179700736.000
+2023-08-04 11:57:06,707:INFO: Epoch 134/256
+2023-08-04 11:57:06,912:INFO: - Train metrics: f1_score_macro: 0.113 ; loss: 47.798
+2023-08-04 11:57:06,959:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 123859530514397741056.000
+2023-08-04 11:57:06,963:INFO: Epoch 135/256
+2023-08-04 11:57:07,273:INFO: - Train metrics: f1_score_macro: 0.164 ; loss: 34.710
+2023-08-04 11:57:07,375:INFO: - Eval metrics : f1_score_macro: 0.109 ; loss: 304239817519385433385992192.000
+2023-08-04 11:57:07,380:INFO: Epoch 136/256
+2023-08-04 11:57:07,598:INFO: - Train metrics: f1_score_macro: 0.189 ; loss: 32.626
+2023-08-04 11:57:07,649:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 24.331
+2023-08-04 11:57:07,655:INFO: Epoch 137/256
+2023-08-04 11:57:07,861:INFO: - Train metrics: f1_score_macro: 0.228 ; loss: 25.341
+2023-08-04 11:57:07,910:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 23.445
+2023-08-04 11:57:07,914:INFO: Epoch 138/256
+2023-08-04 11:57:08,126:INFO: - Train metrics: f1_score_macro: 0.223 ; loss: 42.573
+2023-08-04 11:57:08,179:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 62862957010825611624419688448.000
+2023-08-04 11:57:08,184:INFO: Epoch 139/256
+2023-08-04 11:57:08,387:INFO: - Train metrics: f1_score_macro: 0.148 ; loss: 439.720
+2023-08-04 11:57:08,443:INFO: - Eval metrics : f1_score_macro: 0.006 ; loss: 13155898840435.338
+2023-08-04 11:57:08,449:INFO: Epoch 140/256
+2023-08-04 11:57:08,640:INFO: - Train metrics: f1_score_macro: 0.049 ; loss: 3644.067
+2023-08-04 11:57:08,696:INFO: - Eval metrics : f1_score_macro: 0.097 ; loss: 29727991452717356712722432.000
+2023-08-04 11:57:08,700:INFO: Epoch 141/256
+2023-08-04 11:57:08,897:INFO: - Train metrics: f1_score_macro: 0.076 ; loss: 341.651
+2023-08-04 11:57:08,952:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 10529678826920867597910016.000
+2023-08-04 11:57:08,956:INFO: Epoch 142/256
+2023-08-04 11:57:09,157:INFO: - Train metrics: f1_score_macro: 0.090 ; loss: 45.742
+2023-08-04 11:57:09,212:INFO: - Eval metrics : f1_score_macro: 0.187 ; loss: 22.909
+2023-08-04 11:57:09,216:INFO: Epoch 143/256
+2023-08-04 11:57:09,408:INFO: - Train metrics: f1_score_macro: 0.133 ; loss: 31.557
+2023-08-04 11:57:09,460:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 51466512298646474562994176.000
+2023-08-04 11:57:09,497:INFO: Epoch 144/256
+2023-08-04 11:57:09,695:INFO: - Train metrics: f1_score_macro: 0.109 ; loss: 92.057
+2023-08-04 11:57:09,742:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 1208991.953
+2023-08-04 11:57:09,746:INFO: Epoch 145/256
+2023-08-04 11:57:09,942:INFO: - Train metrics: f1_score_macro: 0.086 ; loss: 2708.998
+2023-08-04 11:57:09,995:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 894.899
+2023-08-04 11:57:10,000:INFO: Epoch 146/256
+2023-08-04 11:57:10,194:INFO: - Train metrics: f1_score_macro: 0.065 ; loss: 824.203
+2023-08-04 11:57:10,249:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 42.633
+2023-08-04 11:57:10,253:INFO: Epoch 147/256
+2023-08-04 11:57:10,445:INFO: - Train metrics: f1_score_macro: 0.074 ; loss: 52.360
+2023-08-04 11:57:10,498:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 22.307
+2023-08-04 11:57:10,504:INFO: Epoch 148/256
+2023-08-04 11:57:10,694:INFO: - Train metrics: f1_score_macro: 0.133 ; loss: 2082.715
+2023-08-04 11:57:10,748:INFO: - Eval metrics : f1_score_macro: 0.069 ; loss: 2179.828
+2023-08-04 11:57:10,753:INFO: Epoch 149/256
+2023-08-04 11:57:10,953:INFO: - Train metrics: f1_score_macro: 0.123 ; loss: 3018.562
+2023-08-04 11:57:11,005:INFO: - Eval metrics : f1_score_macro: 0.249 ; loss: 25578804571600221896704.000
+2023-08-04 11:57:11,009:INFO: Epoch 150/256
+2023-08-04 11:57:11,214:INFO: - Train metrics: f1_score_macro: 0.105 ; loss: 2731.699
+2023-08-04 11:57:11,266:INFO: - Eval metrics : f1_score_macro: 0.023 ; loss: 1052120957801178595328000.000
+2023-08-04 11:57:11,271:INFO: Epoch 151/256
+2023-08-04 11:57:11,465:INFO: - Train metrics: f1_score_macro: 0.089 ; loss: 712.461
+2023-08-04 11:57:11,513:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 123.903
+2023-08-04 11:57:11,517:INFO: Epoch 152/256
+2023-08-04 11:57:11,716:INFO: - Train metrics: f1_score_macro: 0.073 ; loss: 3407.403
+2023-08-04 11:57:11,765:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 2537.207
+2023-08-04 11:57:11,769:INFO: Epoch 153/256
+2023-08-04 11:57:11,963:INFO: - Train metrics: f1_score_macro: 0.105 ; loss: 32272.194
+2023-08-04 11:57:12,010:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 3364.912
+2023-08-04 11:57:12,014:INFO: Epoch 154/256
+2023-08-04 11:57:12,216:INFO: - Train metrics: f1_score_macro: 0.089 ; loss: 1394.613
+2023-08-04 11:57:12,279:INFO: - Eval metrics : f1_score_macro: 0.291 ; loss: 60.880
+2023-08-04 11:57:12,284:INFO: Epoch 155/256
+2023-08-04 11:57:12,486:INFO: - Train metrics: f1_score_macro: 0.115 ; loss: 376.582
+2023-08-04 11:57:12,533:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 38.294
+2023-08-04 11:57:12,538:INFO: Epoch 156/256
+2023-08-04 11:57:12,743:INFO: - Train metrics: f1_score_macro: 0.127 ; loss: 44.251
+2023-08-04 11:57:12,796:INFO: - Eval metrics : f1_score_macro: 0.244 ; loss: 138733536295838640.000
+2023-08-04 11:57:12,801:INFO: Epoch 157/256
+2023-08-04 11:57:12,993:INFO: - Train metrics: f1_score_macro: 0.146 ; loss: 125.755
+2023-08-04 11:57:13,044:INFO: - Eval metrics : f1_score_macro: 0.090 ; loss: 19542890313708008.000
+2023-08-04 11:57:13,049:INFO: Epoch 158/256
+2023-08-04 11:57:13,265:INFO: - Train metrics: f1_score_macro: 0.086 ; loss: 73.398
+2023-08-04 11:57:13,317:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 34.129
+2023-08-04 11:57:13,322:INFO: Epoch 159/256
+2023-08-04 11:57:13,520:INFO: - Train metrics: f1_score_macro: 0.121 ; loss: 399.898
+2023-08-04 11:57:13,576:INFO: - Eval metrics : f1_score_macro: 0.222 ; loss: 30.605
+2023-08-04 11:57:13,580:INFO: Epoch 160/256
+2023-08-04 11:57:13,779:INFO: - Train metrics: f1_score_macro: 0.090 ; loss: 677.852
+2023-08-04 11:57:13,831:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 47.809
+2023-08-04 11:57:13,835:INFO: Epoch 161/256
+2023-08-04 11:57:14,042:INFO: - Train metrics: f1_score_macro: 0.077 ; loss: 99.714
+2023-08-04 11:57:14,113:INFO: - Eval metrics : f1_score_macro: 0.009 ; loss: 248746267086421.031
+2023-08-04 11:57:14,119:INFO: Epoch 162/256
+2023-08-04 11:57:14,458:INFO: - Train metrics: f1_score_macro: 0.082 ; loss: 1948.406
+2023-08-04 11:57:14,536:INFO: - Eval metrics : f1_score_macro: 0.104 ; loss: 324181717534.959
+2023-08-04 11:57:14,546:INFO: Epoch 163/256
+2023-08-04 11:57:14,842:INFO: - Train metrics: f1_score_macro: 0.094 ; loss: 387.143
+2023-08-04 11:57:14,895:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 36.771
+2023-08-04 11:57:14,899:INFO: Epoch 164/256
+2023-08-04 11:57:15,122:INFO: - Train metrics: f1_score_macro: 0.107 ; loss: 2316.383
+2023-08-04 11:57:15,182:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 32005096999726654423040.000
+2023-08-04 11:57:15,187:INFO: Epoch 165/256
+2023-08-04 11:57:15,391:INFO: - Train metrics: f1_score_macro: 0.078 ; loss: 8440.508
+2023-08-04 11:57:15,445:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 3662654851136409358607319040.000
+2023-08-04 11:57:15,449:INFO: Epoch 166/256
+2023-08-04 11:57:15,642:INFO: - Train metrics: f1_score_macro: 0.100 ; loss: 397.197
+2023-08-04 11:57:15,698:INFO: - Eval metrics : f1_score_macro: 0.004 ; loss: 2325356874953304064.000
+2023-08-04 11:57:15,703:INFO: Epoch 167/256
+2023-08-04 11:57:15,888:INFO: - Train metrics: f1_score_macro: 0.125 ; loss: 12495.316
+2023-08-04 11:57:15,942:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 227079501532893789244358656.000
+2023-08-04 11:57:15,946:INFO: Epoch 168/256
+2023-08-04 11:57:16,160:INFO: - Train metrics: f1_score_macro: 0.086 ; loss: 9741.699
+2023-08-04 11:57:16,210:INFO: - Eval metrics : f1_score_macro: 0.100 ; loss: 16774506756790082359787520.000
+2023-08-04 11:57:16,214:INFO: Epoch 169/256
+2023-08-04 11:57:16,418:INFO: - Train metrics: f1_score_macro: 0.107 ; loss: 1817.633
+2023-08-04 11:57:16,469:INFO: - Eval metrics : f1_score_macro: 0.241 ; loss: 357938823834044948011819204608.000
+2023-08-04 11:57:16,473:INFO: Epoch 170/256
+2023-08-04 11:57:16,690:INFO: - Train metrics: f1_score_macro: 0.094 ; loss: 1625.238
+2023-08-04 11:57:16,741:INFO: - Eval metrics : f1_score_macro: 0.241 ; loss: 263810300810493140175765725249536.000
+2023-08-04 11:57:16,746:INFO: Epoch 171/256
+2023-08-04 11:57:16,975:INFO: - Train metrics: f1_score_macro: 0.098 ; loss: 56.661
+2023-08-04 11:57:17,029:INFO: - Eval metrics : f1_score_macro: 0.241 ; loss: 3942749101975476371456.000
+2023-08-04 11:57:17,032:INFO: Epoch 172/256
+2023-08-04 11:57:17,257:INFO: - Train metrics: f1_score_macro: 0.115 ; loss: 208.851
+2023-08-04 11:57:17,305:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 823653720164185648660480.000
+2023-08-04 11:57:17,309:INFO: Epoch 173/256
+2023-08-04 11:57:17,520:INFO: - Train metrics: f1_score_macro: 0.072 ; loss: 1451.112
+2023-08-04 11:57:17,573:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 90687332374896470654976.000
+2023-08-04 11:57:17,577:INFO: Epoch 174/256
+2023-08-04 11:57:17,787:INFO: - Train metrics: f1_score_macro: 0.091 ; loss: 394.434
+2023-08-04 11:57:17,839:INFO: - Eval metrics : f1_score_macro: 0.241 ; loss: 865188138604702692559474917376.000
+2023-08-04 11:57:17,843:INFO: Epoch 175/256
+2023-08-04 11:57:18,051:INFO: - Train metrics: f1_score_macro: 0.107 ; loss: 1122.180
+2023-08-04 11:57:18,104:INFO: - Eval metrics : f1_score_macro: 0.241 ; loss: 49367742052215054017931264393216.000
+2023-08-04 11:57:18,109:INFO: Epoch 176/256
+2023-08-04 11:57:18,330:INFO: - Train metrics: f1_score_macro: 0.110 ; loss: 9336.119
+2023-08-04 11:57:18,383:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 38788438739430190088192.000
+2023-08-04 11:57:18,388:INFO: Epoch 177/256
+2023-08-04 11:57:18,598:INFO: - Train metrics: f1_score_macro: 0.054 ; loss: 18724.863
+2023-08-04 11:57:18,651:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 188541379911109738233856.000
+2023-08-04 11:57:18,656:INFO: Epoch 178/256
+2023-08-04 11:57:18,863:INFO: - Train metrics: f1_score_macro: 0.051 ; loss: 330999.575
+2023-08-04 11:57:18,912:INFO: - Eval metrics : f1_score_macro: 0.024 ; loss: 46487479009912592.000
+2023-08-04 11:57:18,917:INFO: Epoch 179/256
+2023-08-04 11:57:19,126:INFO: - Train metrics: f1_score_macro: 0.065 ; loss: 12700.357
+2023-08-04 11:57:19,177:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 6676.091
+2023-08-04 11:57:19,183:INFO: Epoch 180/256
+2023-08-04 11:57:19,388:INFO: - Train metrics: f1_score_macro: 0.090 ; loss: 220.800
+2023-08-04 11:57:19,439:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 240.977
+2023-08-04 11:57:19,444:INFO: Epoch 181/256
+2023-08-04 11:57:19,649:INFO: - Train metrics: f1_score_macro: 0.117 ; loss: 92.550
+2023-08-04 11:57:19,706:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 89.316
+2023-08-04 11:57:19,711:INFO: Epoch 182/256
+2023-08-04 11:57:19,922:INFO: - Train metrics: f1_score_macro: 0.198 ; loss: 85.836
+2023-08-04 11:57:19,989:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 83.692
+2023-08-04 11:57:19,993:INFO: Epoch 183/256
+2023-08-04 11:57:20,202:INFO: - Train metrics: f1_score_macro: 0.162 ; loss: 95.629
+2023-08-04 11:57:20,251:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 80.670
+2023-08-04 11:57:20,256:INFO: Epoch 184/256
+2023-08-04 11:57:20,463:INFO: - Train metrics: f1_score_macro: 0.222 ; loss: 79.410
+2023-08-04 11:57:20,515:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 77.881
+2023-08-04 11:57:20,520:INFO: Epoch 185/256
+2023-08-04 11:57:20,730:INFO: - Train metrics: f1_score_macro: 0.244 ; loss: 76.691
+2023-08-04 11:57:20,786:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 75.372
+2023-08-04 11:57:20,791:INFO: Epoch 186/256
+2023-08-04 11:57:21,034:INFO: - Train metrics: f1_score_macro: 0.276 ; loss: 74.269
+2023-08-04 11:57:21,089:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 73.031
+2023-08-04 11:57:21,094:INFO: Epoch 187/256
+2023-08-04 11:57:21,307:INFO: - Train metrics: f1_score_macro: 0.238 ; loss: 72.066
+2023-08-04 11:57:21,362:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 71.838
+2023-08-04 11:57:21,367:INFO: Epoch 188/256
+2023-08-04 11:57:21,579:INFO: - Train metrics: f1_score_macro: 0.249 ; loss: 70.107
+2023-08-04 11:57:21,633:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 69.217
+2023-08-04 11:57:21,639:INFO: Epoch 189/256
+2023-08-04 11:57:21,846:INFO: - Train metrics: f1_score_macro: 0.253 ; loss: 68.136
+2023-08-04 11:57:21,900:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 67.110
+2023-08-04 11:57:21,905:INFO: Epoch 190/256
+2023-08-04 11:57:22,117:INFO: - Train metrics: f1_score_macro: 0.071 ; loss: 205709.994
+2023-08-04 11:57:22,170:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 87.079
+2023-08-04 11:57:22,175:INFO: Epoch 191/256
+2023-08-04 11:57:22,388:INFO: - Train metrics: f1_score_macro: 0.109 ; loss: 520.395
+2023-08-04 11:57:22,442:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 78.335
+2023-08-04 11:57:22,446:INFO: Epoch 192/256
+2023-08-04 11:57:22,659:INFO: - Train metrics: f1_score_macro: 0.156 ; loss: 265.409
+2023-08-04 11:57:22,716:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 75.994
+2023-08-04 11:57:22,722:INFO: Epoch 193/256
+2023-08-04 11:57:22,930:INFO: - Train metrics: f1_score_macro: 0.142 ; loss: 82.516
+2023-08-04 11:57:22,979:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 73.393
+2023-08-04 11:57:22,983:INFO: Epoch 194/256
+2023-08-04 11:57:23,202:INFO: - Train metrics: f1_score_macro: 0.181 ; loss: 82.585
+2023-08-04 11:57:23,257:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 71.669
+2023-08-04 11:57:23,261:INFO: Epoch 195/256
+2023-08-04 11:57:23,465:INFO: - Train metrics: f1_score_macro: 0.156 ; loss: 116.704
+2023-08-04 11:57:23,515:INFO: - Eval metrics : f1_score_macro: 0.239 ; loss: 2195969886128234666401222493208576.000
+2023-08-04 11:57:23,519:INFO: Epoch 196/256
+2023-08-04 11:57:23,719:INFO: - Train metrics: f1_score_macro: 0.208 ; loss: 102.729
+2023-08-04 11:57:23,774:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 67.731
+2023-08-04 11:57:23,779:INFO: Epoch 197/256
+2023-08-04 11:57:23,989:INFO: - Train metrics: f1_score_macro: 0.231 ; loss: 73.497
+2023-08-04 11:57:24,041:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 66.005
+2023-08-04 11:57:24,045:INFO: Epoch 198/256
+2023-08-04 11:57:24,253:INFO: - Train metrics: f1_score_macro: 0.208 ; loss: 88.460
+2023-08-04 11:57:24,310:INFO: - Eval metrics : f1_score_macro: 0.049 ; loss: 66.038
+2023-08-04 11:57:24,316:INFO: Epoch 199/256
+2023-08-04 11:57:24,526:INFO: - Train metrics: f1_score_macro: 0.101 ; loss: 80882.246
+2023-08-04 11:57:24,581:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 649.217
+2023-08-04 11:57:24,585:INFO: Epoch 200/256
+2023-08-04 11:57:24,808:INFO: - Train metrics: f1_score_macro: 0.081 ; loss: 2557.719
+2023-08-04 11:57:24,866:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 487.060
+2023-08-04 11:57:24,872:INFO: Epoch 201/256
+2023-08-04 11:57:25,068:INFO: - Train metrics: f1_score_macro: 0.090 ; loss: 455.612
+2023-08-04 11:57:25,133:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 66.197
+2023-08-04 11:57:25,137:INFO: Epoch 202/256
+2023-08-04 11:57:25,348:INFO: - Train metrics: f1_score_macro: 0.088 ; loss: 37241.447
+2023-08-04 11:57:25,403:INFO: - Eval metrics : f1_score_macro: 0.285 ; loss: 67.407
+2023-08-04 11:57:25,407:INFO: Epoch 203/256
+2023-08-04 11:57:25,625:INFO: - Train metrics: f1_score_macro: 0.085 ; loss: 208.966
+2023-08-04 11:57:25,678:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 63.927
+2023-08-04 11:57:25,682:INFO: Epoch 204/256
+2023-08-04 11:57:25,902:INFO: - Train metrics: f1_score_macro: 0.098 ; loss: 205.571
+2023-08-04 11:57:25,961:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 62.001
+2023-08-04 11:57:25,966:INFO: Epoch 205/256
+2023-08-04 11:57:26,183:INFO: - Train metrics: f1_score_macro: 0.122 ; loss: 19385.978
+2023-08-04 11:57:26,239:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 120.996
+2023-08-04 11:57:26,243:INFO: Epoch 206/256
+2023-08-04 11:57:26,450:INFO: - Train metrics: f1_score_macro: 0.095 ; loss: 597.041
+2023-08-04 11:57:26,507:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 80.330
+2023-08-04 11:57:26,512:INFO: Epoch 207/256
+2023-08-04 11:57:26,717:INFO: - Train metrics: f1_score_macro: 0.101 ; loss: 164.223
+2023-08-04 11:57:26,774:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 59.568
+2023-08-04 11:57:26,779:INFO: Epoch 208/256
+2023-08-04 11:57:26,988:INFO: - Train metrics: f1_score_macro: 0.124 ; loss: 662.397
+2023-08-04 11:57:27,041:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 60.750
+2023-08-04 11:57:27,045:INFO: Epoch 209/256
+2023-08-04 11:57:27,264:INFO: - Train metrics: f1_score_macro: 0.093 ; loss: 1466.296
+2023-08-04 11:57:27,322:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 59.593
+2023-08-04 11:57:27,326:INFO: Epoch 210/256
+2023-08-04 11:57:27,548:INFO: - Train metrics: f1_score_macro: 0.094 ; loss: 522.552
+2023-08-04 11:57:27,605:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 62.276
+2023-08-04 11:57:27,610:INFO: Epoch 211/256
+2023-08-04 11:57:27,822:INFO: - Train metrics: f1_score_macro: 0.125 ; loss: 1302.714
+2023-08-04 11:57:27,874:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 57.144
+2023-08-04 11:57:27,878:INFO: Epoch 212/256
+2023-08-04 11:57:28,084:INFO: - Train metrics: f1_score_macro: 0.123 ; loss: 399.529
+2023-08-04 11:57:28,149:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 58.277
+2023-08-04 11:57:28,154:INFO: Epoch 213/256
+2023-08-04 11:57:28,357:INFO: - Train metrics: f1_score_macro: 0.151 ; loss: 68.975
+2023-08-04 11:57:28,416:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 53.186
+2023-08-04 11:57:28,421:INFO: Epoch 214/256
+2023-08-04 11:57:28,637:INFO: - Train metrics: f1_score_macro: 0.116 ; loss: 301.408
+2023-08-04 11:57:28,698:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 56.292
+2023-08-04 11:57:28,703:INFO: Epoch 215/256
+2023-08-04 11:57:28,919:INFO: - Train metrics: f1_score_macro: 0.108 ; loss: 734.855
+2023-08-04 11:57:28,981:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 58.519
+2023-08-04 11:57:28,986:INFO: Epoch 216/256
+2023-08-04 11:57:29,210:INFO: - Train metrics: f1_score_macro: 0.094 ; loss: 158.246
+2023-08-04 11:57:29,264:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 55.422
+2023-08-04 11:57:29,268:INFO: Epoch 217/256
+2023-08-04 11:57:29,480:INFO: - Train metrics: f1_score_macro: 0.122 ; loss: 338.095
+2023-08-04 11:57:29,536:INFO: - Eval metrics : f1_score_macro: 0.217 ; loss: 52.469
+2023-08-04 11:57:29,541:INFO: Epoch 218/256
+2023-08-04 11:57:29,757:INFO: - Train metrics: f1_score_macro: 0.121 ; loss: 176.213
+2023-08-04 11:57:29,817:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 51.507
+2023-08-04 11:57:29,822:INFO: Epoch 219/256
+2023-08-04 11:57:30,039:INFO: - Train metrics: f1_score_macro: 0.104 ; loss: 162.666
+2023-08-04 11:57:30,092:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 51.869
+2023-08-04 11:57:30,156:INFO: Epoch 220/256
+2023-08-04 11:57:30,373:INFO: - Train metrics: f1_score_macro: 0.117 ; loss: 155.386
+2023-08-04 11:57:30,427:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 48.056
+2023-08-04 11:57:30,433:INFO: Epoch 221/256
+2023-08-04 11:57:30,651:INFO: - Train metrics: f1_score_macro: 0.100 ; loss: 168.012
+2023-08-04 11:57:30,707:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 47.489
+2023-08-04 11:57:30,712:INFO: Epoch 222/256
+2023-08-04 11:57:30,925:INFO: - Train metrics: f1_score_macro: 0.147 ; loss: 1239.900
+2023-08-04 11:57:30,986:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 52.493
+2023-08-04 11:57:30,991:INFO: Epoch 223/256
+2023-08-04 11:57:31,216:INFO: - Train metrics: f1_score_macro: 0.105 ; loss: 121.696
+2023-08-04 11:57:31,278:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 65.272
+2023-08-04 11:57:31,295:INFO: Epoch 224/256
+2023-08-04 11:57:31,508:INFO: - Train metrics: f1_score_macro: 0.112 ; loss: 51.086
+2023-08-04 11:57:31,564:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 46.570
+2023-08-04 11:57:31,568:INFO: Epoch 225/256
+2023-08-04 11:57:31,778:INFO: - Train metrics: f1_score_macro: 0.186 ; loss: 46.361
+2023-08-04 11:57:31,827:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 45.711
+2023-08-04 11:57:31,831:INFO: Epoch 226/256
+2023-08-04 11:57:32,047:INFO: - Train metrics: f1_score_macro: 0.176 ; loss: 58.175
+2023-08-04 11:57:32,108:INFO: - Eval metrics : f1_score_macro: 0.292 ; loss: 44.869
+2023-08-04 11:57:32,114:INFO: Epoch 227/256
+2023-08-04 11:57:32,333:INFO: - Train metrics: f1_score_macro: 0.118 ; loss: 1603.209
+2023-08-04 11:57:32,387:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 49.535
+2023-08-04 11:57:32,392:INFO: Epoch 228/256
+2023-08-04 11:57:32,598:INFO: - Train metrics: f1_score_macro: 0.105 ; loss: 5790.363
+2023-08-04 11:57:32,657:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 279.757
+2023-08-04 11:57:32,663:INFO: Epoch 229/256
+2023-08-04 11:57:32,882:INFO: - Train metrics: f1_score_macro: 0.123 ; loss: 3246.937
+2023-08-04 11:57:32,937:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 131.997
+2023-08-04 11:57:32,942:INFO: Epoch 230/256
+2023-08-04 11:57:33,150:INFO: - Train metrics: f1_score_macro: 0.109 ; loss: 1597.007
+2023-08-04 11:57:33,203:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 409389754.093
+2023-08-04 11:57:33,208:INFO: Epoch 231/256
+2023-08-04 11:57:33,416:INFO: - Train metrics: f1_score_macro: 0.103 ; loss: 1741.528
+2023-08-04 11:57:33,467:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 113.541
+2023-08-04 11:57:33,471:INFO: Epoch 232/256
+2023-08-04 11:57:33,682:INFO: - Train metrics: f1_score_macro: 0.086 ; loss: 18432.985
+2023-08-04 11:57:33,738:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 283.491
+2023-08-04 11:57:33,742:INFO: Epoch 233/256
+2023-08-04 11:57:33,950:INFO: - Train metrics: f1_score_macro: 0.051 ; loss: 1100.771
+2023-08-04 11:57:34,005:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 378.557
+2023-08-04 11:57:34,037:INFO: Epoch 234/256
+2023-08-04 11:57:34,261:INFO: - Train metrics: f1_score_macro: 0.052 ; loss: 97.137
+2023-08-04 11:57:34,313:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 51.379
+2023-08-04 11:57:34,318:INFO: Epoch 235/256
+2023-08-04 11:57:34,527:INFO: - Train metrics: f1_score_macro: 0.089 ; loss: 53.395
+2023-08-04 11:57:34,585:INFO: - Eval metrics : f1_score_macro: 0.247 ; loss: 339407786248328512.000
+2023-08-04 11:57:34,590:INFO: Epoch 236/256
+2023-08-04 11:57:34,803:INFO: - Train metrics: f1_score_macro: 0.115 ; loss: 48.625
+2023-08-04 11:57:34,857:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 46.663
+2023-08-04 11:57:34,861:INFO: Epoch 237/256
+2023-08-04 11:57:35,089:INFO: - Train metrics: f1_score_macro: 0.147 ; loss: 47.069
+2023-08-04 11:57:35,149:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 45.401
+2023-08-04 11:57:35,154:INFO: Epoch 238/256
+2023-08-04 11:57:35,365:INFO: - Train metrics: f1_score_macro: 0.162 ; loss: 19581.954
+2023-08-04 11:57:35,445:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 2814.390
+2023-08-04 11:57:35,449:INFO: Epoch 239/256
+2023-08-04 11:57:35,653:INFO: - Train metrics: f1_score_macro: 0.107 ; loss: 136.535
+2023-08-04 11:57:35,704:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 102.569
+2023-08-04 11:57:35,708:INFO: Epoch 240/256
+2023-08-04 11:57:35,916:INFO: - Train metrics: f1_score_macro: 0.148 ; loss: 52.726
+2023-08-04 11:57:35,968:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 50.584
+2023-08-04 11:57:35,972:INFO: Epoch 241/256
+2023-08-04 11:57:36,189:INFO: - Train metrics: f1_score_macro: 0.159 ; loss: 1281.689
+2023-08-04 11:57:36,241:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 81.201
+2023-08-04 11:57:36,246:INFO: Epoch 242/256
+2023-08-04 11:57:36,452:INFO: - Train metrics: f1_score_macro: 0.102 ; loss: 753.854
+2023-08-04 11:57:36,507:INFO: - Eval metrics : f1_score_macro: 0.019 ; loss: 285.733
+2023-08-04 11:57:36,511:INFO: Epoch 243/256
+2023-08-04 11:57:36,723:INFO: - Train metrics: f1_score_macro: 0.123 ; loss: 72.632
+2023-08-04 11:57:36,813:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 46.881
+2023-08-04 11:57:36,818:INFO: Epoch 244/256
+2023-08-04 11:57:37,026:INFO: - Train metrics: f1_score_macro: 0.185 ; loss: 45.091
+2023-08-04 11:57:37,078:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 43.786
+2023-08-04 11:57:37,082:INFO: Epoch 245/256
+2023-08-04 11:57:37,289:INFO: - Train metrics: f1_score_macro: 0.220 ; loss: 43.339
+2023-08-04 11:57:37,342:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 42.733
+2023-08-04 11:57:37,346:INFO: Epoch 246/256
+2023-08-04 11:57:37,558:INFO: - Train metrics: f1_score_macro: 0.206 ; loss: 49.920
+2023-08-04 11:57:37,612:INFO: - Eval metrics : f1_score_macro: 0.021 ; loss: 41.868
+2023-08-04 11:57:37,618:INFO: Epoch 247/256
+2023-08-04 11:57:37,829:INFO: - Train metrics: f1_score_macro: 0.207 ; loss: 17441.965
+2023-08-04 11:57:37,880:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 240.032
+2023-08-04 11:57:37,885:INFO: Epoch 248/256
+2023-08-04 11:57:38,107:INFO: - Train metrics: f1_score_macro: 0.146 ; loss: 151.528
+2023-08-04 11:57:38,169:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 43.573
+2023-08-04 11:57:38,175:INFO: Epoch 249/256
+2023-08-04 11:57:38,391:INFO: - Train metrics: f1_score_macro: 0.128 ; loss: 245.270
+2023-08-04 11:57:38,446:INFO: - Eval metrics : f1_score_macro: 0.238 ; loss: 1008657447543308550144.000
+2023-08-04 11:57:38,450:INFO: Epoch 250/256
+2023-08-04 11:57:38,660:INFO: - Train metrics: f1_score_macro: 0.187 ; loss: 59.085
+2023-08-04 11:57:38,713:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 41.296
+2023-08-04 11:57:38,718:INFO: Epoch 251/256
+2023-08-04 11:57:38,929:INFO: - Train metrics: f1_score_macro: 0.147 ; loss: 9084.771
+2023-08-04 11:57:38,984:INFO: - Eval metrics : f1_score_macro: 0.021 ; loss: 9261521528898273148928.000
+2023-08-04 11:57:38,988:INFO: Epoch 252/256
+2023-08-04 11:57:39,206:INFO: - Train metrics: f1_score_macro: 0.158 ; loss: 43.005
+2023-08-04 11:57:39,264:INFO: - Eval metrics : f1_score_macro: 0.021 ; loss: 199559967859534230192128.000
+2023-08-04 11:57:39,268:INFO: Epoch 253/256
+2023-08-04 11:57:39,481:INFO: - Train metrics: f1_score_macro: 0.192 ; loss: 40.591
+2023-08-04 11:57:39,532:INFO: - Eval metrics : f1_score_macro: 0.108 ; loss: 40089150369408827260928.000
+2023-08-04 11:57:39,536:INFO: Epoch 254/256
+2023-08-04 11:57:39,750:INFO: - Train metrics: f1_score_macro: 0.115 ; loss: 15072.125
+2023-08-04 11:57:39,802:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 734.185
+2023-08-04 11:57:39,806:INFO: Epoch 255/256
+2023-08-04 11:57:40,013:INFO: - Train metrics: f1_score_macro: 0.085 ; loss: 9650.601
+2023-08-04 11:57:40,069:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 135.194
+2023-08-04 11:57:40,073:INFO: Epoch 256/256
+2023-08-04 11:57:40,295:INFO: - Train metrics: f1_score_macro: 0.069 ; loss: 20606.985
+2023-08-04 11:57:40,350:INFO: - Eval metrics : f1_score_macro: 0.000 ; loss: 485.927
+2023-08-04 20:12:33,591:INFO: Loading the datasets...
+2023-08-04 20:12:33,631:INFO: - done.
+2023-08-04 20:12:33,634:INFO: Starting training for 256 epoch(s)
+2023-08-04 20:12:33,634:INFO: Epoch 1/256
+2023-08-04 20:12:34,150:INFO: - Train metrics: f1_score_macro: 0.183 ; loss: 69.972
+2023-08-04 20:12:34,264:INFO: - Eval metrics : f1_score_macro: 0.090 ; loss: 7709.023
+2023-08-04 20:12:34,276:INFO: - Found new best accuracy
+2023-08-04 20:12:34,278:INFO: Epoch 2/256
+2023-08-04 20:12:34,797:INFO: - Train metrics: f1_score_macro: 0.210 ; loss: 46.826
+2023-08-04 20:12:34,905:INFO: - Eval metrics : f1_score_macro: 0.119 ; loss: 60553124.524
+2023-08-04 20:12:34,917:INFO: - Found new best accuracy
+2023-08-04 20:12:34,917:INFO: Epoch 3/256
+2023-08-04 20:12:35,423:INFO: - Train metrics: f1_score_macro: 0.193 ; loss: 1126.535
+2023-08-04 20:12:35,527:INFO: - Eval metrics : f1_score_macro: 0.102 ; loss: 69.748
+2023-08-04 20:12:35,532:INFO: Epoch 4/256
+2023-08-04 20:12:36,045:INFO: - Train metrics: f1_score_macro: 0.217 ; loss: 327.462
+2023-08-04 20:12:36,157:INFO: - Eval metrics : f1_score_macro: 0.114 ; loss: 700468518710.989
+2023-08-04 20:12:36,162:INFO: Epoch 5/256
+2023-08-04 20:12:36,686:INFO: - Train metrics: f1_score_macro: 0.217 ; loss: 218.038
+2023-08-04 20:12:36,799:INFO: - Eval metrics : f1_score_macro: 0.167 ; loss: 1361936760165159665664.000
+2023-08-04 20:12:36,810:INFO: - Found new best accuracy
+2023-08-04 20:12:36,810:INFO: Epoch 6/256
+2023-08-04 20:12:37,316:INFO: - Train metrics: f1_score_macro: 0.181 ; loss: 205.043
+2023-08-04 20:12:37,425:INFO: - Eval metrics : f1_score_macro: 0.100 ; loss: 1185060280368756686848.000
+2023-08-04 20:12:37,428:INFO: Epoch 7/256
+2023-08-04 20:12:37,952:INFO: - Train metrics: f1_score_macro: 0.220 ; loss: 216.203
+2023-08-04 20:12:38,061:INFO: - Eval metrics : f1_score_macro: 0.227 ; loss: 830053733789116268544.000
+2023-08-04 20:12:38,072:INFO: - Found new best accuracy
+2023-08-04 20:12:38,073:INFO: Epoch 8/256
+2023-08-04 20:12:38,586:INFO: - Train metrics: f1_score_macro: 0.191 ; loss: 484.735
+2023-08-04 20:12:38,703:INFO: - Eval metrics : f1_score_macro: 0.148 ; loss: 3511703158954168156160.000
+2023-08-04 20:12:38,708:INFO: Epoch 9/256
+2023-08-04 20:12:39,218:INFO: - Train metrics: f1_score_macro: 0.209 ; loss: 486.180
+2023-08-04 20:12:39,326:INFO: - Eval metrics : f1_score_macro: 0.176 ; loss: 71263592367036891136.000
+2023-08-04 20:12:39,331:INFO: Epoch 10/256
+2023-08-04 20:12:39,867:INFO: - Train metrics: f1_score_macro: 0.194 ; loss: 1193.782
+2023-08-04 20:12:39,969:INFO: - Eval metrics : f1_score_macro: 0.100 ; loss: 71.706
+2023-08-04 20:12:39,974:INFO: Epoch 11/256
+2023-08-04 20:12:40,480:INFO: - Train metrics: f1_score_macro: 0.219 ; loss: 2749.710
+2023-08-04 20:12:40,597:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 165.193
+2023-08-04 20:12:40,601:INFO: Epoch 12/256
+2023-08-04 20:12:41,115:INFO: - Train metrics: f1_score_macro: 0.194 ; loss: 270.037
+2023-08-04 20:12:41,224:INFO: - Eval metrics : f1_score_macro: 0.164 ; loss: 204136844555641749504.000
+2023-08-04 20:12:41,228:INFO: Epoch 13/256
+2023-08-04 20:12:41,742:INFO: - Train metrics: f1_score_macro: 0.204 ; loss: 643.021
+2023-08-04 20:12:41,850:INFO: - Eval metrics : f1_score_macro: 0.211 ; loss: 9476485551294.697
+2023-08-04 20:12:41,853:INFO: Epoch 14/256
+2023-08-04 20:12:42,359:INFO: - Train metrics: f1_score_macro: 0.193 ; loss: 1455.573
+2023-08-04 20:12:42,466:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 120778355012313399296.000
+2023-08-04 20:12:42,470:INFO: Epoch 15/256
+2023-08-04 20:12:42,991:INFO: - Train metrics: f1_score_macro: 0.194 ; loss: 716.947
+2023-08-04 20:12:43,096:INFO: - Eval metrics : f1_score_macro: 0.097 ; loss: 869367672233906798592.000
+2023-08-04 20:12:43,101:INFO: Epoch 16/256
+2023-08-04 20:12:43,612:INFO: - Train metrics: f1_score_macro: 0.172 ; loss: 1957.253
+2023-08-04 20:12:43,725:INFO: - Eval metrics : f1_score_macro: 0.108 ; loss: 43134148581568888566710272.000
+2023-08-04 20:12:43,730:INFO: Epoch 17/256
+2023-08-04 20:12:44,229:INFO: - Train metrics: f1_score_macro: 0.212 ; loss: 562.474
+2023-08-04 20:12:44,336:INFO: - Eval metrics : f1_score_macro: 0.126 ; loss: 412877026862687882051584.000
+2023-08-04 20:12:44,340:INFO: Epoch 18/256
+2023-08-04 20:12:44,858:INFO: - Train metrics: f1_score_macro: 0.191 ; loss: 1109.016
+2023-08-04 20:12:44,967:INFO: - Eval metrics : f1_score_macro: 0.196 ; loss: 18405491048635.453
+2023-08-04 20:12:44,971:INFO: Epoch 19/256
+2023-08-04 20:12:45,485:INFO: - Train metrics: f1_score_macro: 0.197 ; loss: 1424.170
+2023-08-04 20:12:45,599:INFO: - Eval metrics : f1_score_macro: 0.115 ; loss: 5406862874449749737472.000
+2023-08-04 20:12:45,604:INFO: Epoch 20/256
+2023-08-04 20:12:46,112:INFO: - Train metrics: f1_score_macro: 0.200 ; loss: 1700.622
+2023-08-04 20:12:46,221:INFO: - Eval metrics : f1_score_macro: 0.154 ; loss: 69.605
+2023-08-04 20:12:46,226:INFO: Epoch 21/256
+2023-08-04 20:12:46,756:INFO: - Train metrics: f1_score_macro: 0.219 ; loss: 575.952
+2023-08-04 20:12:46,868:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 184.412
+2023-08-04 20:12:46,872:INFO: Epoch 22/256
+2023-08-04 20:12:47,380:INFO: - Train metrics: f1_score_macro: 0.226 ; loss: 84.285
+2023-08-04 20:12:47,483:INFO: - Eval metrics : f1_score_macro: 0.107 ; loss: 56.906
+2023-08-04 20:12:47,489:INFO: Epoch 23/256
+2023-08-04 20:12:48,003:INFO: - Train metrics: f1_score_macro: 0.171 ; loss: 927.245
+2023-08-04 20:12:48,112:INFO: - Eval metrics : f1_score_macro: 0.209 ; loss: 92278263355770260160512.000
+2023-08-04 20:12:48,117:INFO: Epoch 24/256
+2023-08-04 20:12:48,656:INFO: - Train metrics: f1_score_macro: 0.202 ; loss: 727.134
+2023-08-04 20:12:48,784:INFO: - Eval metrics : f1_score_macro: 0.121 ; loss: 23129031960646200057659392.000
+2023-08-04 20:12:48,787:INFO: Epoch 25/256
+2023-08-04 20:12:49,402:INFO: - Train metrics: f1_score_macro: 0.207 ; loss: 60.569
+2023-08-04 20:12:49,538:INFO: - Eval metrics : f1_score_macro: 0.160 ; loss: 32239147213959825618632704.000
+2023-08-04 20:12:49,543:INFO: Epoch 26/256
+2023-08-04 20:12:50,172:INFO: - Train metrics: f1_score_macro: 0.202 ; loss: 95.271
+2023-08-04 20:12:50,301:INFO: - Eval metrics : f1_score_macro: 0.151 ; loss: 9574123905049436356608.000
+2023-08-04 20:12:50,306:INFO: Epoch 27/256
+2023-08-04 20:12:50,927:INFO: - Train metrics: f1_score_macro: 0.207 ; loss: 51.312
+2023-08-04 20:12:51,052:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 5392603739704806355238912.000
+2023-08-04 20:12:51,056:INFO: Epoch 28/256
+2023-08-04 20:12:51,661:INFO: - Train metrics: f1_score_macro: 0.160 ; loss: 46.951
+2023-08-04 20:12:51,801:INFO: - Eval metrics : f1_score_macro: 0.103 ; loss: 388469065355479641030131712.000
+2023-08-04 20:12:51,805:INFO: Epoch 29/256
+2023-08-04 20:12:52,408:INFO: - Train metrics: f1_score_macro: 0.161 ; loss: 43.651
+2023-08-04 20:12:52,541:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 133500039451311873690959872.000
+2023-08-04 20:12:52,546:INFO: Epoch 30/256
+2023-08-04 20:12:53,172:INFO: - Train metrics: f1_score_macro: 0.182 ; loss: 43.885
+2023-08-04 20:12:53,299:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 338694268322310651904.000
+2023-08-04 20:12:53,305:INFO: Epoch 31/256
+2023-08-04 20:12:54,143:INFO: - Train metrics: f1_score_macro: 0.152 ; loss: 38.122
+2023-08-04 20:12:54,327:INFO: - Eval metrics : f1_score_macro: 0.156 ; loss: 20864792660754833571053568.000
+2023-08-04 20:12:54,333:INFO: Epoch 32/256
+2023-08-04 20:12:55,046:INFO: - Train metrics: f1_score_macro: 0.140 ; loss: 35.654
+2023-08-04 20:12:55,183:INFO: - Eval metrics : f1_score_macro: 0.118 ; loss: 461044069263488163459891200.000
+2023-08-04 20:12:55,188:INFO: Epoch 33/256
+2023-08-04 20:12:56,112:INFO: - Train metrics: f1_score_macro: 0.140 ; loss: 33.386
+2023-08-04 20:12:56,289:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 816.823
+2023-08-04 20:12:56,293:INFO: Epoch 34/256
+2023-08-04 20:12:57,046:INFO: - Train metrics: f1_score_macro: 0.138 ; loss: 31.297
+2023-08-04 20:12:57,202:INFO: - Eval metrics : f1_score_macro: 0.111 ; loss: 11918848677562781696.000
+2023-08-04 20:12:57,206:INFO: Epoch 35/256
+2023-08-04 20:12:57,936:INFO: - Train metrics: f1_score_macro: 0.129 ; loss: 29.570
+2023-08-04 20:12:58,096:INFO: - Eval metrics : f1_score_macro: 0.136 ; loss: 4500686206588660219904.000
+2023-08-04 20:12:58,102:INFO: Epoch 36/256
+2023-08-04 20:12:58,834:INFO: - Train metrics: f1_score_macro: 0.139 ; loss: 27.816
+2023-08-04 20:12:58,970:INFO: - Eval metrics : f1_score_macro: 0.108 ; loss: 85290022686626775040.000
+2023-08-04 20:12:58,985:INFO: Epoch 37/256
+2023-08-04 20:12:59,640:INFO: - Train metrics: f1_score_macro: 0.126 ; loss: 26.242
+2023-08-04 20:12:59,774:INFO: - Eval metrics : f1_score_macro: 0.124 ; loss: 1859050214804.668
+2023-08-04 20:12:59,778:INFO: Epoch 38/256
+2023-08-04 20:13:00,552:INFO: - Train metrics: f1_score_macro: 0.129 ; loss: 24.670
+2023-08-04 20:13:00,754:INFO: - Eval metrics : f1_score_macro: 0.102 ; loss: 63639982865051.156
+2023-08-04 20:13:00,761:INFO: Epoch 39/256
+2023-08-04 20:13:01,407:INFO: - Train metrics: f1_score_macro: 0.128 ; loss: 23.346
+2023-08-04 20:13:01,527:INFO: - Eval metrics : f1_score_macro: 0.108 ; loss: 1380957669643.535
+2023-08-04 20:13:01,531:INFO: Epoch 40/256
+2023-08-04 20:13:02,154:INFO: - Train metrics: f1_score_macro: 0.134 ; loss: 21.980
+2023-08-04 20:13:02,277:INFO: - Eval metrics : f1_score_macro: 0.113 ; loss: 531937211706.877
+2023-08-04 20:13:02,283:INFO: Epoch 41/256
+2023-08-04 20:13:02,919:INFO: - Train metrics: f1_score_macro: 0.142 ; loss: 20.676
+2023-08-04 20:13:03,058:INFO: - Eval metrics : f1_score_macro: 0.101 ; loss: 4686091.671
+2023-08-04 20:13:03,063:INFO: Epoch 42/256
+2023-08-04 20:13:03,737:INFO: - Train metrics: f1_score_macro: 0.128 ; loss: 19.671
+2023-08-04 20:13:03,931:INFO: - Eval metrics : f1_score_macro: 0.109 ; loss: 8651.530
+2023-08-04 20:13:03,937:INFO: Epoch 43/256
+2023-08-04 20:13:04,890:INFO: - Train metrics: f1_score_macro: 0.126 ; loss: 18.715
+2023-08-04 20:13:05,060:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 13597.263
+2023-08-04 20:13:05,065:INFO: Epoch 44/256
+2023-08-04 20:13:05,865:INFO: - Train metrics: f1_score_macro: 0.128 ; loss: 17.383
+2023-08-04 20:13:06,060:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 3509834936.060
+2023-08-04 20:13:06,065:INFO: Epoch 45/256
+2023-08-04 20:13:06,958:INFO: - Train metrics: f1_score_macro: 0.127 ; loss: 16.603
+2023-08-04 20:13:07,117:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 158.081
+2023-08-04 20:13:07,122:INFO: Epoch 46/256
+2023-08-04 20:13:07,772:INFO: - Train metrics: f1_score_macro: 0.132 ; loss: 15.737
+2023-08-04 20:13:07,908:INFO: - Eval metrics : f1_score_macro: 0.109 ; loss: 5770.422
+2023-08-04 20:13:07,913:INFO: Epoch 47/256
+2023-08-04 20:13:08,541:INFO: - Train metrics: f1_score_macro: 0.130 ; loss: 14.813
+2023-08-04 20:13:08,695:INFO: - Eval metrics : f1_score_macro: 0.110 ; loss: 1126.856
+2023-08-04 20:13:08,701:INFO: Epoch 48/256
+2023-08-04 20:13:09,410:INFO: - Train metrics: f1_score_macro: 0.132 ; loss: 14.191
+2023-08-04 20:13:09,564:INFO: - Eval metrics : f1_score_macro: 0.104 ; loss: 315.754
+2023-08-04 20:13:09,568:INFO: Epoch 49/256
+2023-08-04 20:13:10,232:INFO: - Train metrics: f1_score_macro: 0.141 ; loss: 13.321
+2023-08-04 20:13:10,379:INFO: - Eval metrics : f1_score_macro: 0.110 ; loss: 14.024
+2023-08-04 20:13:10,384:INFO: Epoch 50/256
+2023-08-04 20:13:11,038:INFO: - Train metrics: f1_score_macro: 0.143 ; loss: 12.660
+2023-08-04 20:13:11,183:INFO: - Eval metrics : f1_score_macro: 0.108 ; loss: 2861344.703
+2023-08-04 20:13:11,188:INFO: Epoch 51/256
+2023-08-04 20:13:11,877:INFO: - Train metrics: f1_score_macro: 0.138 ; loss: 12.016
+2023-08-04 20:13:12,014:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 13.193
+2023-08-04 20:13:12,019:INFO: Epoch 52/256
+2023-08-04 20:13:12,707:INFO: - Train metrics: f1_score_macro: 0.145 ; loss: 11.434
+2023-08-04 20:13:12,858:INFO: - Eval metrics : f1_score_macro: 0.108 ; loss: 39.193
+2023-08-04 20:13:12,865:INFO: Epoch 53/256
+2023-08-04 20:13:13,521:INFO: - Train metrics: f1_score_macro: 0.119 ; loss: 11.059
+2023-08-04 20:13:13,667:INFO: - Eval metrics : f1_score_macro: 0.104 ; loss: 10.727
+2023-08-04 20:13:13,672:INFO: Epoch 54/256
+2023-08-04 20:13:14,342:INFO: - Train metrics: f1_score_macro: 0.137 ; loss: 10.052
+2023-08-04 20:13:14,496:INFO: - Eval metrics : f1_score_macro: 0.111 ; loss: 9.729
+2023-08-04 20:13:14,501:INFO: Epoch 55/256
+2023-08-04 20:13:15,188:INFO: - Train metrics: f1_score_macro: 0.132 ; loss: 9.724
+2023-08-04 20:13:15,326:INFO: - Eval metrics : f1_score_macro: 0.101 ; loss: 9.972
+2023-08-04 20:13:15,331:INFO: Epoch 56/256
+2023-08-04 20:13:16,001:INFO: - Train metrics: f1_score_macro: 0.144 ; loss: 9.740
+2023-08-04 20:13:16,133:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 9.667
+2023-08-04 20:13:16,138:INFO: Epoch 57/256
+2023-08-04 20:13:16,791:INFO: - Train metrics: f1_score_macro: 0.129 ; loss: 9.016
+2023-08-04 20:13:16,917:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 8.730
+2023-08-04 20:13:16,922:INFO: Epoch 58/256
+2023-08-04 20:13:17,686:INFO: - Train metrics: f1_score_macro: 0.136 ; loss: 8.360
+2023-08-04 20:13:17,912:INFO: - Eval metrics : f1_score_macro: 0.101 ; loss: 7.781
+2023-08-04 20:13:17,919:INFO: Epoch 59/256
+2023-08-04 20:13:18,819:INFO: - Train metrics: f1_score_macro: 0.134 ; loss: 7.898
+2023-08-04 20:13:18,981:INFO: - Eval metrics : f1_score_macro: 0.150 ; loss: 8.221
+2023-08-04 20:13:18,986:INFO: Epoch 60/256
+2023-08-04 20:13:19,745:INFO: - Train metrics: f1_score_macro: 0.139 ; loss: 7.330
+2023-08-04 20:13:19,895:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 8.009
+2023-08-04 20:13:19,901:INFO: Epoch 61/256
+2023-08-04 20:13:20,590:INFO: - Train metrics: f1_score_macro: 0.149 ; loss: 6.855
+2023-08-04 20:13:20,762:INFO: - Eval metrics : f1_score_macro: 0.119 ; loss: 6.765
+2023-08-04 20:13:20,767:INFO: Epoch 62/256
+2023-08-04 20:13:21,458:INFO: - Train metrics: f1_score_macro: 0.147 ; loss: 6.587
+2023-08-04 20:13:21,619:INFO: - Eval metrics : f1_score_macro: 0.149 ; loss: 6.670
+2023-08-04 20:13:21,626:INFO: Epoch 63/256
+2023-08-04 20:13:22,288:INFO: - Train metrics: f1_score_macro: 0.146 ; loss: 6.688
+2023-08-04 20:13:22,423:INFO: - Eval metrics : f1_score_macro: 0.135 ; loss: 6.098
+2023-08-04 20:13:22,427:INFO: Epoch 64/256
+2023-08-04 20:13:23,097:INFO: - Train metrics: f1_score_macro: 0.129 ; loss: 6.142
+2023-08-04 20:13:23,247:INFO: - Eval metrics : f1_score_macro: 0.165 ; loss: 5.390
+2023-08-04 20:13:23,252:INFO: Epoch 65/256
+2023-08-04 20:13:23,967:INFO: - Train metrics: f1_score_macro: 0.133 ; loss: 5.910
+2023-08-04 20:13:24,135:INFO: - Eval metrics : f1_score_macro: 0.135 ; loss: 6.030
+2023-08-04 20:13:24,141:INFO: Epoch 66/256
+2023-08-04 20:13:24,825:INFO: - Train metrics: f1_score_macro: 0.135 ; loss: 6.133
+2023-08-04 20:13:24,982:INFO: - Eval metrics : f1_score_macro: 0.100 ; loss: 44566.003
+2023-08-04 20:13:24,986:INFO: Epoch 67/256
+2023-08-04 20:13:25,720:INFO: - Train metrics: f1_score_macro: 0.141 ; loss: 5.926
+2023-08-04 20:13:25,854:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 80199900.881
+2023-08-04 20:13:25,858:INFO: Epoch 68/256
+2023-08-04 20:13:26,508:INFO: - Train metrics: f1_score_macro: 0.145 ; loss: 5.397
+2023-08-04 20:13:26,651:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 5.645
+2023-08-04 20:13:26,656:INFO: Epoch 69/256
+2023-08-04 20:13:27,324:INFO: - Train metrics: f1_score_macro: 0.129 ; loss: 4.891
+2023-08-04 20:13:27,484:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 4.724
+2023-08-04 20:13:27,487:INFO: Epoch 70/256
+2023-08-04 20:13:28,159:INFO: - Train metrics: f1_score_macro: 0.140 ; loss: 4.706
+2023-08-04 20:13:28,303:INFO: - Eval metrics : f1_score_macro: 0.129 ; loss: 4.287
+2023-08-04 20:13:28,306:INFO: Epoch 71/256
+2023-08-04 20:13:29,052:INFO: - Train metrics: f1_score_macro: 0.142 ; loss: 4.515
+2023-08-04 20:13:29,207:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 4.283
+2023-08-04 20:13:29,212:INFO: Epoch 72/256
+2023-08-04 20:13:29,939:INFO: - Train metrics: f1_score_macro: 0.151 ; loss: 4.225
+2023-08-04 20:13:30,074:INFO: - Eval metrics : f1_score_macro: 0.155 ; loss: 4.307
+2023-08-04 20:13:30,080:INFO: Epoch 73/256
+2023-08-04 20:13:30,706:INFO: - Train metrics: f1_score_macro: 0.153 ; loss: 3.948
+2023-08-04 20:13:30,835:INFO: - Eval metrics : f1_score_macro: 0.124 ; loss: 4.508
+2023-08-04 20:13:30,840:INFO: Epoch 74/256
+2023-08-04 20:13:31,457:INFO: - Train metrics: f1_score_macro: 0.155 ; loss: 3.786
+2023-08-04 20:13:31,583:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 3.601
+2023-08-04 20:13:31,587:INFO: Epoch 75/256
+2023-08-04 20:13:32,254:INFO: - Train metrics: f1_score_macro: 0.163 ; loss: 3.444
+2023-08-04 20:13:32,419:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 3.307
+2023-08-04 20:13:32,424:INFO: Epoch 76/256
+2023-08-04 20:13:33,048:INFO: - Train metrics: f1_score_macro: 0.147 ; loss: 3.505
+2023-08-04 20:13:33,196:INFO: - Eval metrics : f1_score_macro: 0.125 ; loss: 3.368
+2023-08-04 20:13:33,202:INFO: Epoch 77/256
+2023-08-04 20:13:33,884:INFO: - Train metrics: f1_score_macro: 0.156 ; loss: 3.099
+2023-08-04 20:13:34,032:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 2.944
+2023-08-04 20:13:34,038:INFO: Epoch 78/256
+2023-08-04 20:13:34,722:INFO: - Train metrics: f1_score_macro: 0.167 ; loss: 2.899
+2023-08-04 20:13:34,876:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 3.371
+2023-08-04 20:13:34,882:INFO: Epoch 79/256
+2023-08-04 20:13:35,563:INFO: - Train metrics: f1_score_macro: 0.151 ; loss: 3.022
+2023-08-04 20:13:35,716:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 2.931
+2023-08-04 20:13:35,720:INFO: Epoch 80/256
+2023-08-04 20:13:36,353:INFO: - Train metrics: f1_score_macro: 0.155 ; loss: 2.906
+2023-08-04 20:13:36,481:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 2.824
+2023-08-04 20:13:36,487:INFO: Epoch 81/256
+2023-08-04 20:13:37,185:INFO: - Train metrics: f1_score_macro: 0.149 ; loss: 2.974
+2023-08-04 20:13:37,339:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 2.829
+2023-08-04 20:13:37,344:INFO: Epoch 82/256
+2023-08-04 20:13:38,010:INFO: - Train metrics: f1_score_macro: 0.138 ; loss: 2.755
+2023-08-04 20:13:38,140:INFO: - Eval metrics : f1_score_macro: 0.094 ; loss: 2.717
+2023-08-04 20:13:38,145:INFO: Epoch 83/256
+2023-08-04 20:13:38,915:INFO: - Train metrics: f1_score_macro: 0.172 ; loss: 2.770
+2023-08-04 20:13:39,078:INFO: - Eval metrics : f1_score_macro: 0.239 ; loss: 2.693
+2023-08-04 20:13:39,093:INFO: - Found new best accuracy
+2023-08-04 20:13:39,094:INFO: Epoch 84/256
+2023-08-04 20:13:39,818:INFO: - Train metrics: f1_score_macro: 0.144 ; loss: 2.582
+2023-08-04 20:13:39,954:INFO: - Eval metrics : f1_score_macro: 0.149 ; loss: 2.343
+2023-08-04 20:13:39,958:INFO: Epoch 85/256
+2023-08-04 20:13:40,601:INFO: - Train metrics: f1_score_macro: 0.161 ; loss: 2.343
+2023-08-04 20:13:40,741:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 2.385
+2023-08-04 20:13:40,744:INFO: Epoch 86/256
+2023-08-04 20:13:41,376:INFO: - Train metrics: f1_score_macro: 0.171 ; loss: 2.141
+2023-08-04 20:13:41,506:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 2.452
+2023-08-04 20:13:41,510:INFO: Epoch 87/256
+2023-08-04 20:13:42,147:INFO: - Train metrics: f1_score_macro: 0.156 ; loss: 2.062
+2023-08-04 20:13:42,278:INFO: - Eval metrics : f1_score_macro: 0.158 ; loss: 1.853
+2023-08-04 20:13:42,282:INFO: Epoch 88/256
+2023-08-04 20:13:42,931:INFO: - Train metrics: f1_score_macro: 0.162 ; loss: 1.931
+2023-08-04 20:13:43,075:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 1.956
+2023-08-04 20:13:43,080:INFO: Epoch 89/256
+2023-08-04 20:13:43,716:INFO: - Train metrics: f1_score_macro: 0.155 ; loss: 1.909
+2023-08-04 20:13:43,842:INFO: - Eval metrics : f1_score_macro: 0.158 ; loss: 1.937
+2023-08-04 20:13:43,847:INFO: Epoch 90/256
+2023-08-04 20:13:44,466:INFO: - Train metrics: f1_score_macro: 0.148 ; loss: 1.840
+2023-08-04 20:13:44,599:INFO: - Eval metrics : f1_score_macro: 0.159 ; loss: 1.676
+2023-08-04 20:13:44,604:INFO: Epoch 91/256
+2023-08-04 20:13:45,223:INFO: - Train metrics: f1_score_macro: 0.167 ; loss: 1.696
+2023-08-04 20:13:45,348:INFO: - Eval metrics : f1_score_macro: 0.250 ; loss: 1.495
+2023-08-04 20:13:45,363:INFO: - Found new best accuracy
+2023-08-04 20:13:45,364:INFO: Epoch 92/256
+2023-08-04 20:13:46,007:INFO: - Train metrics: f1_score_macro: 0.163 ; loss: 1.605
+2023-08-04 20:13:46,138:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 1.604
+2023-08-04 20:13:46,142:INFO: Epoch 93/256
+2023-08-04 20:13:46,783:INFO: - Train metrics: f1_score_macro: 0.176 ; loss: 1.564
+2023-08-04 20:13:46,924:INFO: - Eval metrics : f1_score_macro: 0.175 ; loss: 1.498
+2023-08-04 20:13:46,927:INFO: Epoch 94/256
+2023-08-04 20:13:47,677:INFO: - Train metrics: f1_score_macro: 0.168 ; loss: 1.521
+2023-08-04 20:13:47,831:INFO: - Eval metrics : f1_score_macro: 0.232 ; loss: 1.367
+2023-08-04 20:13:47,836:INFO: Epoch 95/256
+2023-08-04 20:13:48,455:INFO: - Train metrics: f1_score_macro: 0.157 ; loss: 1.479
+2023-08-04 20:13:48,585:INFO: - Eval metrics : f1_score_macro: 0.138 ; loss: 1.442
+2023-08-04 20:13:48,590:INFO: Epoch 96/256
+2023-08-04 20:13:49,422:INFO: - Train metrics: f1_score_macro: 0.162 ; loss: 1.443
+2023-08-04 20:13:49,634:INFO: - Eval metrics : f1_score_macro: 0.131 ; loss: 1.277
+2023-08-04 20:13:49,644:INFO: Epoch 97/256
+2023-08-04 20:13:50,376:INFO: - Train metrics: f1_score_macro: 0.160 ; loss: 1.315
+2023-08-04 20:13:50,533:INFO: - Eval metrics : f1_score_macro: 0.128 ; loss: 1.377
+2023-08-04 20:13:50,538:INFO: Epoch 98/256
+2023-08-04 20:13:51,217:INFO: - Train metrics: f1_score_macro: 0.165 ; loss: 1.326
+2023-08-04 20:13:51,353:INFO: - Eval metrics : f1_score_macro: 0.194 ; loss: 1.200
+2023-08-04 20:13:51,357:INFO: Epoch 99/256
+2023-08-04 20:13:52,200:INFO: - Train metrics: f1_score_macro: 0.169 ; loss: 1.249
+2023-08-04 20:13:52,389:INFO: - Eval metrics : f1_score_macro: 0.103 ; loss: 1.302
+2023-08-04 20:13:52,397:INFO: Epoch 100/256
+2023-08-04 20:13:53,499:INFO: - Train metrics: f1_score_macro: 0.153 ; loss: 1.214
+2023-08-04 20:13:53,710:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 1.222
+2023-08-04 20:13:53,716:INFO: Epoch 101/256
+2023-08-04 20:13:54,484:INFO: - Train metrics: f1_score_macro: 0.154 ; loss: 1.194
+2023-08-04 20:13:54,645:INFO: - Eval metrics : f1_score_macro: 0.183 ; loss: 1.251
+2023-08-04 20:13:54,651:INFO: Epoch 102/256
+2023-08-04 20:13:55,328:INFO: - Train metrics: f1_score_macro: 0.151 ; loss: 11246.383
+2023-08-04 20:13:55,477:INFO: - Eval metrics : f1_score_macro: 0.115 ; loss: 66765087861914520.000
+2023-08-04 20:13:55,482:INFO: Epoch 103/256
+2023-08-04 20:13:56,176:INFO: - Train metrics: f1_score_macro: 0.176 ; loss: 585.385
+2023-08-04 20:13:56,311:INFO: - Eval metrics : f1_score_macro: 0.100 ; loss: 4129678548160976781312.000
+2023-08-04 20:13:56,316:INFO: Epoch 104/256
+2023-08-04 20:13:56,995:INFO: - Train metrics: f1_score_macro: 0.194 ; loss: 131.519
+2023-08-04 20:13:57,154:INFO: - Eval metrics : f1_score_macro: 0.101 ; loss: 337614542087990199174823936.000
+2023-08-04 20:13:57,160:INFO: Epoch 105/256
+2023-08-04 20:13:57,914:INFO: - Train metrics: f1_score_macro: 0.223 ; loss: 179.175
+2023-08-04 20:13:58,063:INFO: - Eval metrics : f1_score_macro: 0.104 ; loss: 14515998914709389315372220416.000
+2023-08-04 20:13:58,068:INFO: Epoch 106/256
+2023-08-04 20:13:58,702:INFO: - Train metrics: f1_score_macro: 0.191 ; loss: 99.459
+2023-08-04 20:13:58,836:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 10727978193922186159258075136.000
+2023-08-04 20:13:58,841:INFO: Epoch 107/256
+2023-08-04 20:13:59,499:INFO: - Train metrics: f1_score_macro: 0.199 ; loss: 91.692
+2023-08-04 20:13:59,661:INFO: - Eval metrics : f1_score_macro: 0.103 ; loss: 10712739516290253924669063168.000
+2023-08-04 20:13:59,666:INFO: Epoch 108/256
+2023-08-04 20:14:00,422:INFO: - Train metrics: f1_score_macro: 0.198 ; loss: 278.756
+2023-08-04 20:14:00,565:INFO: - Eval metrics : f1_score_macro: 0.172 ; loss: 15655325454478889682374492160.000
+2023-08-04 20:14:00,569:INFO: Epoch 109/256
+2023-08-04 20:14:01,263:INFO: - Train metrics: f1_score_macro: 0.175 ; loss: 537.904
+2023-08-04 20:14:01,399:INFO: - Eval metrics : f1_score_macro: 0.101 ; loss: 2606565476179495013337530368.000
+2023-08-04 20:14:01,403:INFO: Epoch 110/256
+2023-08-04 20:14:02,032:INFO: - Train metrics: f1_score_macro: 0.197 ; loss: 159.944
+2023-08-04 20:14:02,180:INFO: - Eval metrics : f1_score_macro: 0.103 ; loss: 31177719773550918130330501120.000
+2023-08-04 20:14:02,186:INFO: Epoch 111/256
+2023-08-04 20:14:02,946:INFO: - Train metrics: f1_score_macro: 0.203 ; loss: 1187.465
+2023-08-04 20:14:03,108:INFO: - Eval metrics : f1_score_macro: 0.152 ; loss: 1033133130137129138910134272.000
+2023-08-04 20:14:03,115:INFO: Epoch 112/256
+2023-08-04 20:14:03,859:INFO: - Train metrics: f1_score_macro: 0.203 ; loss: 210.787
+2023-08-04 20:14:03,998:INFO: - Eval metrics : f1_score_macro: 0.092 ; loss: 703106773002934063988736.000
+2023-08-04 20:14:04,003:INFO: Epoch 113/256
+2023-08-04 20:14:04,744:INFO: - Train metrics: f1_score_macro: 0.193 ; loss: 1374.244
+2023-08-04 20:14:04,907:INFO: - Eval metrics : f1_score_macro: 0.107 ; loss: 339344059287917947646902272.000
+2023-08-04 20:14:04,913:INFO: Epoch 114/256
+2023-08-04 20:14:05,642:INFO: - Train metrics: f1_score_macro: 0.199 ; loss: 4204.713
+2023-08-04 20:14:05,813:INFO: - Eval metrics : f1_score_macro: 0.097 ; loss: 6583543245770000940125913088.000
+2023-08-04 20:14:05,818:INFO: Epoch 115/256
+2023-08-04 20:14:06,536:INFO: - Train metrics: f1_score_macro: 0.207 ; loss: 1034.080
+2023-08-04 20:14:06,670:INFO: - Eval metrics : f1_score_macro: 0.102 ; loss: 15557932373075814400.000
+2023-08-04 20:14:06,675:INFO: Epoch 116/256
+2023-08-04 20:14:07,311:INFO: - Train metrics: f1_score_macro: 0.174 ; loss: 143.516
+2023-08-04 20:14:07,445:INFO: - Eval metrics : f1_score_macro: 0.095 ; loss: 4899782004770770696273920.000
+2023-08-04 20:14:07,449:INFO: Epoch 117/256
+2023-08-04 20:14:08,074:INFO: - Train metrics: f1_score_macro: 0.197 ; loss: 810.843
+2023-08-04 20:14:08,215:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 455317455143416640.000
+2023-08-04 20:14:08,219:INFO: Epoch 118/256
+2023-08-04 20:14:08,850:INFO: - Train metrics: f1_score_macro: 0.173 ; loss: 1603.756
+2023-08-04 20:14:08,980:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 34960083624092148.000
+2023-08-04 20:14:08,984:INFO: Epoch 119/256
+2023-08-04 20:14:09,665:INFO: - Train metrics: f1_score_macro: 0.148 ; loss: 301.607
+2023-08-04 20:14:09,827:INFO: - Eval metrics : f1_score_macro: 0.103 ; loss: 576710412902339200.000
+2023-08-04 20:14:09,832:INFO: Epoch 120/256
+2023-08-04 20:14:10,488:INFO: - Train metrics: f1_score_macro: 0.218 ; loss: 73.352
+2023-08-04 20:14:10,621:INFO: - Eval metrics : f1_score_macro: 0.228 ; loss: 32604029638286376960.000
+2023-08-04 20:14:10,626:INFO: Epoch 121/256
+2023-08-04 20:14:11,284:INFO: - Train metrics: f1_score_macro: 0.179 ; loss: 475.203
+2023-08-04 20:14:11,429:INFO: - Eval metrics : f1_score_macro: 0.129 ; loss: 6345846220185667.000
+2023-08-04 20:14:11,435:INFO: Epoch 122/256
+2023-08-04 20:14:12,204:INFO: - Train metrics: f1_score_macro: 0.217 ; loss: 78.714
+2023-08-04 20:14:12,358:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 1133705641355594651576404279296.000
+2023-08-04 20:14:12,364:INFO: Epoch 123/256
+2023-08-04 20:14:13,049:INFO: - Train metrics: f1_score_macro: 0.208 ; loss: 31533.476
+2023-08-04 20:14:13,192:INFO: - Eval metrics : f1_score_macro: 0.102 ; loss: 716175602624831.250
+2023-08-04 20:14:13,199:INFO: Epoch 124/256
+2023-08-04 20:14:13,907:INFO: - Train metrics: f1_score_macro: 0.208 ; loss: 73.427
+2023-08-04 20:14:14,073:INFO: - Eval metrics : f1_score_macro: 0.097 ; loss: 523696079626988945408.000
+2023-08-04 20:14:14,078:INFO: Epoch 125/256
+2023-08-04 20:14:14,765:INFO: - Train metrics: f1_score_macro: 0.203 ; loss: 1749.692
+2023-08-04 20:14:14,909:INFO: - Eval metrics : f1_score_macro: 0.107 ; loss: 3442210258163721.000
+2023-08-04 20:14:14,915:INFO: Epoch 126/256
+2023-08-04 20:14:15,556:INFO: - Train metrics: f1_score_macro: 0.204 ; loss: 350.792
+2023-08-04 20:14:15,711:INFO: - Eval metrics : f1_score_macro: 0.100 ; loss: 106465658688920423854243840.000
+2023-08-04 20:14:15,717:INFO: Epoch 127/256
+2023-08-04 20:14:16,421:INFO: - Train metrics: f1_score_macro: 0.190 ; loss: 70.139
+2023-08-04 20:14:16,656:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 119670417058064981032960.000
+2023-08-04 20:14:16,665:INFO: Epoch 128/256
+2023-08-04 20:14:17,452:INFO: - Train metrics: f1_score_macro: 0.209 ; loss: 3405.243
+2023-08-04 20:14:17,600:INFO: - Eval metrics : f1_score_macro: 0.104 ; loss: 00inf
+2023-08-04 20:14:17,604:INFO: Epoch 129/256
+2023-08-04 20:14:18,276:INFO: - Train metrics: f1_score_macro: 0.198 ; loss: 469.421
+2023-08-04 20:14:18,432:INFO: - Eval metrics : f1_score_macro: 0.144 ; loss: 60.392
+2023-08-04 20:14:18,439:INFO: Epoch 130/256
+2023-08-04 20:14:19,091:INFO: - Train metrics: f1_score_macro: 0.186 ; loss: 778.734
+2023-08-04 20:14:19,231:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 393.606
+2023-08-04 20:14:19,237:INFO: Epoch 131/256
+2023-08-04 20:14:19,908:INFO: - Train metrics: f1_score_macro: 0.193 ; loss: 2587.627
+2023-08-04 20:14:20,042:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 56.803
+2023-08-04 20:14:20,047:INFO: Epoch 132/256
+2023-08-04 20:14:20,701:INFO: - Train metrics: f1_score_macro: 0.205 ; loss: 1354.315
+2023-08-04 20:14:20,868:INFO: - Eval metrics : f1_score_macro: 0.159 ; loss: 54.298
+2023-08-04 20:14:20,873:INFO: Epoch 133/256
+2023-08-04 20:14:21,523:INFO: - Train metrics: f1_score_macro: 0.208 ; loss: 52.632
+2023-08-04 20:14:21,681:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 48.170
+2023-08-04 20:14:21,687:INFO: Epoch 134/256
+2023-08-04 20:14:22,454:INFO: - Train metrics: f1_score_macro: 0.220 ; loss: 364.661
+2023-08-04 20:14:22,621:INFO: - Eval metrics : f1_score_macro: 0.204 ; loss: 55.108
+2023-08-04 20:14:22,626:INFO: Epoch 135/256
+2023-08-04 20:14:23,272:INFO: - Train metrics: f1_score_macro: 0.223 ; loss: 58.256
+2023-08-04 20:14:23,401:INFO: - Eval metrics : f1_score_macro: 0.083 ; loss: 313680419927.752
+2023-08-04 20:14:23,406:INFO: Epoch 136/256
+2023-08-04 20:14:24,033:INFO: - Train metrics: f1_score_macro: 0.208 ; loss: 327.586
+2023-08-04 20:14:24,179:INFO: - Eval metrics : f1_score_macro: 0.127 ; loss: 1025644353996675063352393728.000
+2023-08-04 20:14:24,186:INFO: Epoch 137/256
+2023-08-04 20:14:24,865:INFO: - Train metrics: f1_score_macro: 0.231 ; loss: 1187.036
+2023-08-04 20:14:24,992:INFO: - Eval metrics : f1_score_macro: 0.100 ; loss: 512533140600698944.000
+2023-08-04 20:14:24,996:INFO: Epoch 138/256
+2023-08-04 20:14:25,639:INFO: - Train metrics: f1_score_macro: 0.219 ; loss: 392.514
+2023-08-04 20:14:25,774:INFO: - Eval metrics : f1_score_macro: 0.106 ; loss: 3082429516076880.500
+2023-08-04 20:14:25,779:INFO: Epoch 139/256
+2023-08-04 20:14:26,406:INFO: - Train metrics: f1_score_macro: 0.195 ; loss: 1875.916
+2023-08-04 20:14:26,547:INFO: - Eval metrics : f1_score_macro: 0.124 ; loss: 1371333524239083008.000
+2023-08-04 20:14:26,553:INFO: Epoch 140/256
+2023-08-04 20:14:27,199:INFO: - Train metrics: f1_score_macro: 0.223 ; loss: 547.650
+2023-08-04 20:14:27,353:INFO: - Eval metrics : f1_score_macro: 0.116 ; loss: 54.491
+2023-08-04 20:14:27,359:INFO: Epoch 141/256
+2023-08-04 20:14:28,202:INFO: - Train metrics: f1_score_macro: 0.204 ; loss: 101.856
+2023-08-04 20:14:28,391:INFO: - Eval metrics : f1_score_macro: 0.091 ; loss: 307915883.298
+2023-08-04 20:14:28,396:INFO: Epoch 142/256
+2023-08-04 20:14:29,303:INFO: - Train metrics: f1_score_macro: 0.195 ; loss: 645.364
+2023-08-04 20:14:29,495:INFO: - Eval metrics : f1_score_macro: 0.237 ; loss: 58.953
+2023-08-04 20:14:29,502:INFO: Epoch 143/256
+2023-08-04 20:14:30,397:INFO: - Train metrics: f1_score_macro: 0.197 ; loss: 8117.055
+2023-08-04 20:14:30,578:INFO: - Eval metrics : f1_score_macro: 0.096 ; loss: 125.652
+2023-08-04 20:14:30,584:INFO: Epoch 144/256
+2023-08-04 20:14:31,382:INFO: - Train metrics: f1_score_macro: 0.219 ; loss: 2047.760
+2023-08-04 20:14:31,541:INFO: - Eval metrics : f1_score_macro: 0.151 ; loss: 90.496
+2023-08-04 20:14:31,547:INFO: Epoch 145/256
+2023-08-04 20:14:32,287:INFO: - Train metrics: f1_score_macro: 0.224 ; loss: 7410.603
+2023-08-04 20:14:32,452:INFO: - Eval metrics : f1_score_macro: 0.192 ; loss: 922.874
+2023-08-04 20:14:32,457:INFO: Epoch 146/256
+2023-08-04 20:14:33,179:INFO: - Train metrics: f1_score_macro: 0.203 ; loss: 205.646
+2023-08-04 20:14:33,332:INFO: - Eval metrics : f1_score_macro: 0.138 ; loss: 140.472
+2023-08-04 20:14:33,337:INFO: Epoch 147/256
+2023-08-04 20:14:34,056:INFO: - Train metrics: f1_score_macro: 0.200 ; loss: 159.627
+2023-08-04 20:14:34,209:INFO: - Eval metrics : f1_score_macro: 0.154 ; loss: 132.291
+2023-08-04 20:14:34,214:INFO: Epoch 148/256
+2023-08-04 20:14:34,851:INFO: - Train metrics: f1_score_macro: 0.156 ; loss: 130.339
+2023-08-04 20:14:34,983:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 126.504
+2023-08-04 20:14:34,988:INFO: Epoch 149/256
+2023-08-04 20:14:35,592:INFO: - Train metrics: f1_score_macro: 0.128 ; loss: 123.108
+2023-08-04 20:14:35,741:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 120.645
+2023-08-04 20:14:35,746:INFO: Epoch 150/256
+2023-08-04 20:14:36,388:INFO: - Train metrics: f1_score_macro: 0.186 ; loss: 4786.157
+2023-08-04 20:14:36,517:INFO: - Eval metrics : f1_score_macro: 0.192 ; loss: 123.030
+2023-08-04 20:14:36,522:INFO: Epoch 151/256
+2023-08-04 20:14:37,264:INFO: - Train metrics: f1_score_macro: 0.219 ; loss: 131.468
+2023-08-04 20:14:37,407:INFO: - Eval metrics : f1_score_macro: 0.112 ; loss: 115.823
+2023-08-04 20:14:37,413:INFO: Epoch 152/256
+2023-08-04 20:14:38,094:INFO: - Train metrics: f1_score_macro: 0.207 ; loss: 439.757
+2023-08-04 20:14:38,229:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 226.043
+2023-08-04 20:14:38,235:INFO: Epoch 153/256
+2023-08-04 20:14:38,910:INFO: - Train metrics: f1_score_macro: 0.181 ; loss: 1133.362
+2023-08-04 20:14:39,046:INFO: - Eval metrics : f1_score_macro: 0.156 ; loss: 119.029
+2023-08-04 20:14:39,051:INFO: Epoch 154/256
+2023-08-04 20:14:39,677:INFO: - Train metrics: f1_score_macro: 0.206 ; loss: 899.940
+2023-08-04 20:14:39,832:INFO: - Eval metrics : f1_score_macro: 0.155 ; loss: 98.802
+2023-08-04 20:14:39,837:INFO: Epoch 155/256
+2023-08-04 20:14:40,484:INFO: - Train metrics: f1_score_macro: 0.179 ; loss: 100.203
+2023-08-04 20:14:40,620:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 93.435
+2023-08-04 20:14:40,624:INFO: Epoch 156/256
+2023-08-04 20:14:41,277:INFO: - Train metrics: f1_score_macro: 0.134 ; loss: 91.998
+2023-08-04 20:14:41,421:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 89.563
+2023-08-04 20:14:41,427:INFO: Epoch 157/256
+2023-08-04 20:14:42,460:INFO: - Train metrics: f1_score_macro: 0.120 ; loss: 89.076
+2023-08-04 20:14:42,764:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 85.674
+2023-08-04 20:14:42,772:INFO: Epoch 158/256
+2023-08-04 20:14:43,471:INFO: - Train metrics: f1_score_macro: 0.135 ; loss: 88.540
+2023-08-04 20:14:43,613:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 84.356
+2023-08-04 20:14:43,617:INFO: Epoch 159/256
+2023-08-04 20:14:44,265:INFO: - Train metrics: f1_score_macro: 0.112 ; loss: 82.147
+2023-08-04 20:14:44,407:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 80.308
+2023-08-04 20:14:44,412:INFO: Epoch 160/256
+2023-08-04 20:14:45,089:INFO: - Train metrics: f1_score_macro: 0.125 ; loss: 447.714
+2023-08-04 20:14:45,225:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 102.380
+2023-08-04 20:14:45,231:INFO: Epoch 161/256
+2023-08-04 20:14:45,893:INFO: - Train metrics: f1_score_macro: 0.179 ; loss: 462.682
+2023-08-04 20:14:46,028:INFO: - Eval metrics : f1_score_macro: 0.095 ; loss: 75.303
+2023-08-04 20:14:46,032:INFO: Epoch 162/256
+2023-08-04 20:14:46,675:INFO: - Train metrics: f1_score_macro: 0.185 ; loss: 7995.096
+2023-08-04 20:14:46,815:INFO: - Eval metrics : f1_score_macro: 0.141 ; loss: 6664.127
+2023-08-04 20:14:46,819:INFO: Epoch 163/256
+2023-08-04 20:14:47,426:INFO: - Train metrics: f1_score_macro: 0.187 ; loss: 2348.984
+2023-08-04 20:14:47,562:INFO: - Eval metrics : f1_score_macro: 0.165 ; loss: 103.523
+2023-08-04 20:14:47,615:INFO: Epoch 164/256
+2023-08-04 20:14:48,385:INFO: - Train metrics: f1_score_macro: 0.227 ; loss: 105.112
+2023-08-04 20:14:48,522:INFO: - Eval metrics : f1_score_macro: 0.104 ; loss: 95.165
+2023-08-04 20:14:48,527:INFO: Epoch 165/256
+2023-08-04 20:14:49,180:INFO: - Train metrics: f1_score_macro: 0.196 ; loss: 195.153
+2023-08-04 20:14:49,314:INFO: - Eval metrics : f1_score_macro: 0.117 ; loss: 29315710658598165287631060992.000
+2023-08-04 20:14:49,318:INFO: Epoch 166/256
+2023-08-04 20:14:49,950:INFO: - Train metrics: f1_score_macro: 0.234 ; loss: 2735.138
+2023-08-04 20:14:50,077:INFO: - Eval metrics : f1_score_macro: 0.182 ; loss: 100.940
+2023-08-04 20:14:50,082:INFO: Epoch 167/256
+2023-08-04 20:14:50,699:INFO: - Train metrics: f1_score_macro: 0.218 ; loss: 93.190
+2023-08-04 20:14:50,846:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 83.333
+2023-08-04 20:14:50,851:INFO: Epoch 168/256
+2023-08-04 20:14:51,479:INFO: - Train metrics: f1_score_macro: 0.215 ; loss: 300.133
+2023-08-04 20:14:51,604:INFO: - Eval metrics : f1_score_macro: 0.143 ; loss: 85.267
+2023-08-04 20:14:51,608:INFO: Epoch 169/256
+2023-08-04 20:14:52,230:INFO: - Train metrics: f1_score_macro: 0.229 ; loss: 97.998
+2023-08-04 20:14:52,361:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 74.290
+2023-08-04 20:14:52,366:INFO: Epoch 170/256
+2023-08-04 20:14:52,997:INFO: - Train metrics: f1_score_macro: 0.210 ; loss: 78.907
+2023-08-04 20:14:53,124:INFO: - Eval metrics : f1_score_macro: 0.257 ; loss: 70.011
+2023-08-04 20:14:53,138:INFO: - Found new best accuracy
+2023-08-04 20:14:53,139:INFO: Epoch 171/256
+2023-08-04 20:14:53,789:INFO: - Train metrics: f1_score_macro: 0.217 ; loss: 1771.457
+2023-08-04 20:14:53,931:INFO: - Eval metrics : f1_score_macro: 0.187 ; loss: 70.086
+2023-08-04 20:14:53,937:INFO: Epoch 172/256
+2023-08-04 20:14:54,556:INFO: - Train metrics: f1_score_macro: 0.210 ; loss: 247.967
+2023-08-04 20:14:54,681:INFO: - Eval metrics : f1_score_macro: 0.174 ; loss: 64.494
+2023-08-04 20:14:54,685:INFO: Epoch 173/256
+2023-08-04 20:14:55,301:INFO: - Train metrics: f1_score_macro: 0.204 ; loss: 3833.296
+2023-08-04 20:14:55,437:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 200.849
+2023-08-04 20:14:55,441:INFO: Epoch 174/256
+2023-08-04 20:14:56,054:INFO: - Train metrics: f1_score_macro: 0.218 ; loss: 200.455
+2023-08-04 20:14:56,186:INFO: - Eval metrics : f1_score_macro: 0.131 ; loss: 66.131
+2023-08-04 20:14:56,207:INFO: Epoch 175/256
+2023-08-04 20:14:56,822:INFO: - Train metrics: f1_score_macro: 0.193 ; loss: 63.433
+2023-08-04 20:14:56,950:INFO: - Eval metrics : f1_score_macro: 0.163 ; loss: 60.669
+2023-08-04 20:14:56,955:INFO: Epoch 176/256
+2023-08-04 20:14:57,564:INFO: - Train metrics: f1_score_macro: 0.176 ; loss: 58.715
+2023-08-04 20:14:57,697:INFO: - Eval metrics : f1_score_macro: 0.197 ; loss: 56.817
+2023-08-04 20:14:57,703:INFO: Epoch 177/256
+2023-08-04 20:14:58,318:INFO: - Train metrics: f1_score_macro: 0.182 ; loss: 57.225
+2023-08-04 20:14:58,445:INFO: - Eval metrics : f1_score_macro: 0.238 ; loss: 53.762
+2023-08-04 20:14:58,450:INFO: Epoch 178/256
+2023-08-04 20:14:59,049:INFO: - Train metrics: f1_score_macro: 0.202 ; loss: 52.685
+2023-08-04 20:14:59,182:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 50.906
+2023-08-04 20:14:59,188:INFO: Epoch 179/256
+2023-08-04 20:14:59,808:INFO: - Train metrics: f1_score_macro: 0.186 ; loss: 50.397
+2023-08-04 20:14:59,932:INFO: - Eval metrics : f1_score_macro: 0.129 ; loss: 48.429
+2023-08-04 20:14:59,938:INFO: Epoch 180/256
+2023-08-04 20:15:00,558:INFO: - Train metrics: f1_score_macro: 0.198 ; loss: 1197.793
+2023-08-04 20:15:00,690:INFO: - Eval metrics : f1_score_macro: 0.129 ; loss: 183.860
+2023-08-04 20:15:00,696:INFO: Epoch 181/256
+2023-08-04 20:15:01,319:INFO: - Train metrics: f1_score_macro: 0.211 ; loss: 364.246
+2023-08-04 20:15:01,449:INFO: - Eval metrics : f1_score_macro: 0.243 ; loss: 61.023
+2023-08-04 20:15:01,453:INFO: Epoch 182/256
+2023-08-04 20:15:02,065:INFO: - Train metrics: f1_score_macro: 0.202 ; loss: 57.929
+2023-08-04 20:15:02,195:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 54.008
+2023-08-04 20:15:02,200:INFO: Epoch 183/256
+2023-08-04 20:15:02,814:INFO: - Train metrics: f1_score_macro: 0.204 ; loss: 54.731
+2023-08-04 20:15:02,944:INFO: - Eval metrics : f1_score_macro: 0.178 ; loss: 49.281
+2023-08-04 20:15:02,950:INFO: Epoch 184/256
+2023-08-04 20:15:03,556:INFO: - Train metrics: f1_score_macro: 0.167 ; loss: 47.511
+2023-08-04 20:15:03,687:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 45.741
+2023-08-04 20:15:03,692:INFO: Epoch 185/256
+2023-08-04 20:15:04,306:INFO: - Train metrics: f1_score_macro: 0.188 ; loss: 50.465
+2023-08-04 20:15:04,432:INFO: - Eval metrics : f1_score_macro: 0.139 ; loss: 42.822
+2023-08-04 20:15:04,436:INFO: Epoch 186/256
+2023-08-04 20:15:05,059:INFO: - Train metrics: f1_score_macro: 0.193 ; loss: 74.349
+2023-08-04 20:15:05,183:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 43.678
+2023-08-04 20:15:05,189:INFO: Epoch 187/256
+2023-08-04 20:15:05,837:INFO: - Train metrics: f1_score_macro: 0.197 ; loss: 329.262
+2023-08-04 20:15:05,968:INFO: - Eval metrics : f1_score_macro: 0.154 ; loss: 326.782
+2023-08-04 20:15:05,973:INFO: Epoch 188/256
+2023-08-04 20:15:06,570:INFO: - Train metrics: f1_score_macro: 0.190 ; loss: 863.691
+2023-08-04 20:15:06,703:INFO: - Eval metrics : f1_score_macro: 0.185 ; loss: 14833.639
+2023-08-04 20:15:06,708:INFO: Epoch 189/256
+2023-08-04 20:15:07,325:INFO: - Train metrics: f1_score_macro: 0.212 ; loss: 63.196
+2023-08-04 20:15:07,447:INFO: - Eval metrics : f1_score_macro: 0.103 ; loss: 58.204
+2023-08-04 20:15:07,452:INFO: Epoch 190/256
+2023-08-04 20:15:08,071:INFO: - Train metrics: f1_score_macro: 0.196 ; loss: 55.357
+2023-08-04 20:15:08,196:INFO: - Eval metrics : f1_score_macro: 0.173 ; loss: 52.453
+2023-08-04 20:15:08,202:INFO: Epoch 191/256
+2023-08-04 20:15:08,823:INFO: - Train metrics: f1_score_macro: 0.209 ; loss: 53.966
+2023-08-04 20:15:08,957:INFO: - Eval metrics : f1_score_macro: 0.160 ; loss: 48.182
+2023-08-04 20:15:08,961:INFO: Epoch 192/256
+2023-08-04 20:15:09,565:INFO: - Train metrics: f1_score_macro: 0.174 ; loss: 46.429
+2023-08-04 20:15:09,693:INFO: - Eval metrics : f1_score_macro: 0.194 ; loss: 44.509
+2023-08-04 20:15:09,698:INFO: Epoch 193/256
+2023-08-04 20:15:10,324:INFO: - Train metrics: f1_score_macro: 0.164 ; loss: 43.163
+2023-08-04 20:15:10,452:INFO: - Eval metrics : f1_score_macro: 0.126 ; loss: 41.726
+2023-08-04 20:15:10,458:INFO: Epoch 194/256
+2023-08-04 20:15:11,070:INFO: - Train metrics: f1_score_macro: 0.169 ; loss: 40.299
+2023-08-04 20:15:11,201:INFO: - Eval metrics : f1_score_macro: 0.313 ; loss: 621747340612.015
+2023-08-04 20:15:11,214:INFO: - Found new best accuracy
+2023-08-04 20:15:11,214:INFO: Epoch 195/256
+2023-08-04 20:15:11,842:INFO: - Train metrics: f1_score_macro: 0.194 ; loss: 40.108
+2023-08-04 20:15:11,967:INFO: - Eval metrics : f1_score_macro: 0.168 ; loss: 36.663
+2023-08-04 20:15:11,971:INFO: Epoch 196/256
+2023-08-04 20:15:12,579:INFO: - Train metrics: f1_score_macro: 0.197 ; loss: 40.205
+2023-08-04 20:15:12,726:INFO: - Eval metrics : f1_score_macro: 0.177 ; loss: 36.115
+2023-08-04 20:15:12,732:INFO: Epoch 197/256
+2023-08-04 20:15:13,350:INFO: - Train metrics: f1_score_macro: 0.170 ; loss: 36.092
+2023-08-04 20:15:13,479:INFO: - Eval metrics : f1_score_macro: 0.173 ; loss: 620330.536
+2023-08-04 20:15:13,485:INFO: Epoch 198/256
+2023-08-04 20:15:14,103:INFO: - Train metrics: f1_score_macro: 0.169 ; loss: 32.585
+2023-08-04 20:15:14,232:INFO: - Eval metrics : f1_score_macro: 0.180 ; loss: 1065171493700323200.000
+2023-08-04 20:15:14,237:INFO: Epoch 199/256
+2023-08-04 20:15:14,846:INFO: - Train metrics: f1_score_macro: 0.159 ; loss: 32.666
+2023-08-04 20:15:14,973:INFO: - Eval metrics : f1_score_macro: 0.105 ; loss: 29.282
+2023-08-04 20:15:14,976:INFO: Epoch 200/256
+2023-08-04 20:15:15,571:INFO: - Train metrics: f1_score_macro: 0.161 ; loss: 3464.997
+2023-08-04 20:15:15,698:INFO: - Eval metrics : f1_score_macro: 0.080 ; loss: 1022821027776865280.000
+2023-08-04 20:15:15,704:INFO: Epoch 201/256
+2023-08-04 20:15:16,313:INFO: - Train metrics: f1_score_macro: 0.201 ; loss: 6736.512
+2023-08-04 20:15:16,438:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 113837135731978672.000
+2023-08-04 20:15:16,443:INFO: Epoch 202/256
+2023-08-04 20:15:17,060:INFO: - Train metrics: f1_score_macro: 0.193 ; loss: 1831.285
+2023-08-04 20:15:17,186:INFO: - Eval metrics : f1_score_macro: 0.139 ; loss: 128.220
+2023-08-04 20:15:17,191:INFO: Epoch 203/256
+2023-08-04 20:15:17,805:INFO: - Train metrics: f1_score_macro: 0.202 ; loss: 132.614
+2023-08-04 20:15:17,938:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 117.133
+2023-08-04 20:15:17,943:INFO: Epoch 204/256
+2023-08-04 20:15:18,557:INFO: - Train metrics: f1_score_macro: 0.204 ; loss: 290.706
+2023-08-04 20:15:18,684:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 108.673
+2023-08-04 20:15:18,689:INFO: Epoch 205/256
+2023-08-04 20:15:19,311:INFO: - Train metrics: f1_score_macro: 0.185 ; loss: 108.520
+2023-08-04 20:15:19,433:INFO: - Eval metrics : f1_score_macro: 0.109 ; loss: 1404544187161144786421054177280.000
+2023-08-04 20:15:19,438:INFO: Epoch 206/256
+2023-08-04 20:15:20,069:INFO: - Train metrics: f1_score_macro: 0.167 ; loss: 980.390
+2023-08-04 20:15:20,201:INFO: - Eval metrics : f1_score_macro: 0.203 ; loss: 5506588519938259649476438261760.000
+2023-08-04 20:15:20,206:INFO: Epoch 207/256
+2023-08-04 20:15:20,831:INFO: - Train metrics: f1_score_macro: 0.205 ; loss: 103.153
+2023-08-04 20:15:20,963:INFO: - Eval metrics : f1_score_macro: 0.189 ; loss: 91.986
+2023-08-04 20:15:20,969:INFO: Epoch 208/256
+2023-08-04 20:15:21,591:INFO: - Train metrics: f1_score_macro: 0.150 ; loss: 90.142
+2023-08-04 20:15:21,724:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 70195533943202391403790336.000
+2023-08-04 20:15:21,729:INFO: Epoch 209/256
+2023-08-04 20:15:22,337:INFO: - Train metrics: f1_score_macro: 0.143 ; loss: 84.911
+2023-08-04 20:15:22,464:INFO: - Eval metrics : f1_score_macro: 0.190 ; loss: 369158963297826402992128.000
+2023-08-04 20:15:22,467:INFO: Epoch 210/256
+2023-08-04 20:15:23,089:INFO: - Train metrics: f1_score_macro: 0.169 ; loss: 2362.674
+2023-08-04 20:15:23,213:INFO: - Eval metrics : f1_score_macro: 0.121 ; loss: 129594745465130077480890138624.000
+2023-08-04 20:15:23,217:INFO: Epoch 211/256
+2023-08-04 20:15:23,843:INFO: - Train metrics: f1_score_macro: 0.212 ; loss: 326.311
+2023-08-04 20:15:23,970:INFO: - Eval metrics : f1_score_macro: 0.186 ; loss: 76867258128933803838668800.000
+2023-08-04 20:15:23,975:INFO: Epoch 212/256
+2023-08-04 20:15:24,601:INFO: - Train metrics: f1_score_macro: 0.176 ; loss: 1184.402
+2023-08-04 20:15:24,734:INFO: - Eval metrics : f1_score_macro: 0.185 ; loss: 5659816735039832071340032.000
+2023-08-04 20:15:24,740:INFO: Epoch 213/256
+2023-08-04 20:15:25,346:INFO: - Train metrics: f1_score_macro: 0.186 ; loss: 427.383
+2023-08-04 20:15:25,476:INFO: - Eval metrics : f1_score_macro: 0.146 ; loss: 8790759724692260275257081856.000
+2023-08-04 20:15:25,481:INFO: Epoch 214/256
+2023-08-04 20:15:26,103:INFO: - Train metrics: f1_score_macro: 0.205 ; loss: 922.645
+2023-08-04 20:15:26,234:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 230150976572901266934464512.000
+2023-08-04 20:15:26,238:INFO: Epoch 215/256
+2023-08-04 20:15:26,859:INFO: - Train metrics: f1_score_macro: 0.207 ; loss: 1017.461
+2023-08-04 20:15:26,992:INFO: - Eval metrics : f1_score_macro: 0.219 ; loss: 455018653771786065328268640256.000
+2023-08-04 20:15:26,996:INFO: Epoch 216/256
+2023-08-04 20:15:27,604:INFO: - Train metrics: f1_score_macro: 0.220 ; loss: 69.462
+2023-08-04 20:15:27,734:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 74.465
+2023-08-04 20:15:27,739:INFO: Epoch 217/256
+2023-08-04 20:15:28,360:INFO: - Train metrics: f1_score_macro: 0.191 ; loss: 344.398
+2023-08-04 20:15:28,490:INFO: - Eval metrics : f1_score_macro: 0.235 ; loss: 80.642
+2023-08-04 20:15:28,494:INFO: Epoch 218/256
+2023-08-04 20:15:29,114:INFO: - Train metrics: f1_score_macro: 0.187 ; loss: 71.884
+2023-08-04 20:15:29,237:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 44782691312663502848.000
+2023-08-04 20:15:29,242:INFO: Epoch 219/256
+2023-08-04 20:15:29,863:INFO: - Train metrics: f1_score_macro: 0.149 ; loss: 59.269
+2023-08-04 20:15:29,998:INFO: - Eval metrics : f1_score_macro: 0.097 ; loss: 251668936513658683392.000
+2023-08-04 20:15:30,002:INFO: Epoch 220/256
+2023-08-04 20:15:30,615:INFO: - Train metrics: f1_score_macro: 0.138 ; loss: 87.912
+2023-08-04 20:15:30,755:INFO: - Eval metrics : f1_score_macro: 0.194 ; loss: 1588001267692475392.000
+2023-08-04 20:15:30,760:INFO: Epoch 221/256
+2023-08-04 20:15:31,376:INFO: - Train metrics: f1_score_macro: 0.189 ; loss: 2964.974
+2023-08-04 20:15:31,508:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 143056216937131786240.000
+2023-08-04 20:15:31,513:INFO: Epoch 222/256
+2023-08-04 20:15:32,125:INFO: - Train metrics: f1_score_macro: 0.206 ; loss: 187.054
+2023-08-04 20:15:32,253:INFO: - Eval metrics : f1_score_macro: 0.195 ; loss: 55.231
+2023-08-04 20:15:32,257:INFO: Epoch 223/256
+2023-08-04 20:15:32,885:INFO: - Train metrics: f1_score_macro: 0.202 ; loss: 73.290
+2023-08-04 20:15:33,023:INFO: - Eval metrics : f1_score_macro: 0.134 ; loss: 5000136263724370944.000
+2023-08-04 20:15:33,029:INFO: Epoch 224/256
+2023-08-04 20:15:33,636:INFO: - Train metrics: f1_score_macro: 0.213 ; loss: 143.602
+2023-08-04 20:15:33,773:INFO: - Eval metrics : f1_score_macro: 0.169 ; loss: 64.459
+2023-08-04 20:15:33,778:INFO: Epoch 225/256
+2023-08-04 20:15:34,398:INFO: - Train metrics: f1_score_macro: 0.133 ; loss: 121.497
+2023-08-04 20:15:34,529:INFO: - Eval metrics : f1_score_macro: 0.279 ; loss: 1472577576642846.750
+2023-08-04 20:15:34,533:INFO: Epoch 226/256
+2023-08-04 20:15:35,161:INFO: - Train metrics: f1_score_macro: 0.187 ; loss: 1035.371
+2023-08-04 20:15:35,295:INFO: - Eval metrics : f1_score_macro: 0.140 ; loss: 302.252
+2023-08-04 20:15:35,300:INFO: Epoch 227/256
+2023-08-04 20:15:35,900:INFO: - Train metrics: f1_score_macro: 0.205 ; loss: 11652.231
+2023-08-04 20:15:36,036:INFO: - Eval metrics : f1_score_macro: 0.124 ; loss: 423.934
+2023-08-04 20:15:36,041:INFO: Epoch 228/256
+2023-08-04 20:15:36,649:INFO: - Train metrics: f1_score_macro: 0.211 ; loss: 641.049
+2023-08-04 20:15:36,786:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 136.176
+2023-08-04 20:15:36,791:INFO: Epoch 229/256
+2023-08-04 20:15:37,392:INFO: - Train metrics: f1_score_macro: 0.196 ; loss: 1370.927
+2023-08-04 20:15:37,525:INFO: - Eval metrics : f1_score_macro: 0.153 ; loss: 191.582
+2023-08-04 20:15:37,529:INFO: Epoch 230/256
+2023-08-04 20:15:38,157:INFO: - Train metrics: f1_score_macro: 0.222 ; loss: 1496.198
+2023-08-04 20:15:38,286:INFO: - Eval metrics : f1_score_macro: 0.150 ; loss: 123.435
+2023-08-04 20:15:38,290:INFO: Epoch 231/256
+2023-08-04 20:15:38,914:INFO: - Train metrics: f1_score_macro: 0.201 ; loss: 118.651
+2023-08-04 20:15:39,050:INFO: - Eval metrics : f1_score_macro: 0.145 ; loss: 114.103
+2023-08-04 20:15:39,055:INFO: Epoch 232/256
+2023-08-04 20:15:39,655:INFO: - Train metrics: f1_score_macro: 0.152 ; loss: 110.638
+2023-08-04 20:15:39,796:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 107.178
+2023-08-04 20:15:39,820:INFO: Epoch 233/256
+2023-08-04 20:15:40,429:INFO: - Train metrics: f1_score_macro: 0.150 ; loss: 104.252
+2023-08-04 20:15:40,559:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 101.218
+2023-08-04 20:15:40,565:INFO: Epoch 234/256
+2023-08-04 20:15:41,170:INFO: - Train metrics: f1_score_macro: 0.157 ; loss: 98.645
+2023-08-04 20:15:41,303:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 96.082
+2023-08-04 20:15:41,307:INFO: Epoch 235/256
+2023-08-04 20:15:41,922:INFO: - Train metrics: f1_score_macro: 0.139 ; loss: 93.649
+2023-08-04 20:15:42,056:INFO: - Eval metrics : f1_score_macro: 0.111 ; loss: 8296829181.708
+2023-08-04 20:15:42,061:INFO: Epoch 236/256
+2023-08-04 20:15:42,670:INFO: - Train metrics: f1_score_macro: 0.115 ; loss: 89.215
+2023-08-04 20:15:42,806:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 86.829
+2023-08-04 20:15:42,811:INFO: Epoch 237/256
+2023-08-04 20:15:43,431:INFO: - Train metrics: f1_score_macro: 0.130 ; loss: 84.968
+2023-08-04 20:15:43,562:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 83.160
+2023-08-04 20:15:43,567:INFO: Epoch 238/256
+2023-08-04 20:15:44,182:INFO: - Train metrics: f1_score_macro: 0.130 ; loss: 81.052
+2023-08-04 20:15:44,315:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 79.029
+2023-08-04 20:15:44,319:INFO: Epoch 239/256
+2023-08-04 20:15:44,933:INFO: - Train metrics: f1_score_macro: 0.134 ; loss: 77.335
+2023-08-04 20:15:45,065:INFO: - Eval metrics : f1_score_macro: 0.103 ; loss: 460498894.473
+2023-08-04 20:15:45,070:INFO: Epoch 240/256
+2023-08-04 20:15:45,691:INFO: - Train metrics: f1_score_macro: 0.131 ; loss: 73.971
+2023-08-04 20:15:45,826:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 72.149
+2023-08-04 20:15:45,831:INFO: Epoch 241/256
+2023-08-04 20:15:46,442:INFO: - Train metrics: f1_score_macro: 0.133 ; loss: 70.778
+2023-08-04 20:15:46,566:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 21148302.676
+2023-08-04 20:15:46,570:INFO: Epoch 242/256
+2023-08-04 20:15:47,178:INFO: - Train metrics: f1_score_macro: 0.126 ; loss: 67.676
+2023-08-04 20:15:47,312:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 66.450
+2023-08-04 20:15:47,318:INFO: Epoch 243/256
+2023-08-04 20:15:47,925:INFO: - Train metrics: f1_score_macro: 0.130 ; loss: 64.766
+2023-08-04 20:15:48,053:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 63.494
+2023-08-04 20:15:48,057:INFO: Epoch 244/256
+2023-08-04 20:15:48,699:INFO: - Train metrics: f1_score_macro: 0.124 ; loss: 61.956
+2023-08-04 20:15:48,836:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 60.720
+2023-08-04 20:15:48,841:INFO: Epoch 245/256
+2023-08-04 20:15:49,440:INFO: - Train metrics: f1_score_macro: 0.132 ; loss: 59.424
+2023-08-04 20:15:49,582:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 57.940
+2023-08-04 20:15:49,587:INFO: Epoch 246/256
+2023-08-04 20:15:50,221:INFO: - Train metrics: f1_score_macro: 0.134 ; loss: 56.954
+2023-08-04 20:15:50,353:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 55.675
+2023-08-04 20:15:50,359:INFO: Epoch 247/256
+2023-08-04 20:15:50,982:INFO: - Train metrics: f1_score_macro: 0.126 ; loss: 54.794
+2023-08-04 20:15:51,108:INFO: - Eval metrics : f1_score_macro: 0.116 ; loss: 53.755
+2023-08-04 20:15:51,112:INFO: Epoch 248/256
+2023-08-04 20:15:51,727:INFO: - Train metrics: f1_score_macro: 0.126 ; loss: 52.336
+2023-08-04 20:15:51,864:INFO: - Eval metrics : f1_score_macro: 0.104 ; loss: 51.555
+2023-08-04 20:15:51,869:INFO: Epoch 249/256
+2023-08-04 20:15:52,490:INFO: - Train metrics: f1_score_macro: 0.124 ; loss: 50.251
+2023-08-04 20:15:52,621:INFO: - Eval metrics : f1_score_macro: 0.114 ; loss: 50.954
+2023-08-04 20:15:52,624:INFO: Epoch 250/256
+2023-08-04 20:15:53,246:INFO: - Train metrics: f1_score_macro: 0.125 ; loss: 48.422
+2023-08-04 20:15:53,376:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 47.721
+2023-08-04 20:15:53,387:INFO: Epoch 251/256
+2023-08-04 20:15:54,023:INFO: - Train metrics: f1_score_macro: 0.127 ; loss: 46.048
+2023-08-04 20:15:54,163:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 44.711
+2023-08-04 20:15:54,168:INFO: Epoch 252/256
+2023-08-04 20:15:54,797:INFO: - Train metrics: f1_score_macro: 0.114 ; loss: 43.959
+2023-08-04 20:15:54,923:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 43.402
+2023-08-04 20:15:54,927:INFO: Epoch 253/256
+2023-08-04 20:15:55,535:INFO: - Train metrics: f1_score_macro: 0.115 ; loss: 42.514
+2023-08-04 20:15:55,664:INFO: - Eval metrics : f1_score_macro: 0.150 ; loss: 41.904
+2023-08-04 20:15:55,668:INFO: Epoch 254/256
+2023-08-04 20:15:56,281:INFO: - Train metrics: f1_score_macro: 0.119 ; loss: 40.966
+2023-08-04 20:15:56,414:INFO: - Eval metrics : f1_score_macro: 0.099 ; loss: 40.318
+2023-08-04 20:15:56,419:INFO: Epoch 255/256
+2023-08-04 20:15:57,037:INFO: - Train metrics: f1_score_macro: 0.122 ; loss: 38.787
+2023-08-04 20:15:57,164:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 39.442
+2023-08-04 20:15:57,169:INFO: Epoch 256/256
+2023-08-04 20:15:57,781:INFO: - Train metrics: f1_score_macro: 0.124 ; loss: 36.887
+2023-08-04 20:15:57,918:INFO: - Eval metrics : f1_score_macro: 0.098 ; loss: 35.928
